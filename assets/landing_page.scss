@@ -1,0 +1,45 @@
+.landing-page-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.top-content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.landing-page-content {
+    flex: 2;
+}
+
+.landing-page-image {
+    flex: 1;
+    text-align: right;
+}
+
+.landing-page-image img {
+    border-radius: 15px;
+    width: 85%;
+    height: auto;
+}
+
+.bottom-content {
+    width: 100%;
+}
+
+/* Responsive Design */
+@media only screen and (max-width: 600px) {
+    .top-content {
+        flex-direction: column;
+    }
+
+    .landing-page-content,
+    .landing-page-image {
+        margin-right: 0;
+        width: 100%;
+    }
+
+    .landing-page-image img {
+        width: 100%;
+    }
+}
