@@ -40,7 +40,7 @@ enableRobotsTXT = true
         author = "Abhinandan Dalal"
         custom_css = "/custom.css"
         description = "Hi, I'm Abhinandan"
-        keywords = ["statistics", "academic", "CEA", "PhD"]
+        keywords = ["statistics", "academic", "causal", "PhD"]
 
     [params.navigation]
         show_navigation = true
@@ -57,7 +57,8 @@ enableRobotsTXT = true
         theme_color = "#333333"
         background_color = "#fcfbf9"
         text_color = "#333333"
-        link_color = "#0244ad"
+        # link_color = "#0244ad"
+        link_color = "chartreuse"
 
     [params.social]
         [params.social.email]
