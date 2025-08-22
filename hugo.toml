@@ -1,4 +1,104 @@
-baseURL = 'https://abhinandan-dalal.github.io/'
-languageCode = 'en-us'
-title = 'Abhinandan Dalal'
-theme = 'barks'
+
+# Global options
+baseURL = "http://Abhinandan-Dalal.github.io/"
+canonifyURLs = true
+defaultContentLanguage = "en"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+languageCode = "en"
+theme = "barks"
+title = "Abhinandan Dalal"
+copyright = "Powered by the <a href=\"https://github.com/timothygebhard/barks\" target=\"_blank\" rel=\"noopener\">Barks</a> theme for <a href=\"https://gohugo.io/\" target=\"_blank\" rel=\"noopener\">Hugo</a>."
+enableRobotsTXT = true
+
+# Main menu
+[[menu.main]]
+    name = "About me"
+    url  = "/"
+    weight = 2
+[[menu.main]]
+    name = "Research"
+    url  = "/research"
+    weight = 2
+[[menu.main]]
+    name = "CV"
+    url  = "/cv.pdf"
+    weight = 3
+[[menu.main]]
+    name = "Teaching"
+    url  = "/teaching"
+    weight = 2
+
+[sitemap]
+  changefreq = 'daily'
+  filename = 'sitemap.xml'
+  priority = 0.5
+
+# Customization options
+[params]
+
+    [params.head]
+        author = "Abhinandan Dalal"
+        custom_css = "/custom.css"
+        description = "Hi, I'm Abhinandan"
+        keywords = ["statistics", "academic", "causal", "PhD"]
+
+    [params.navigation]
+        show_navigation = true
+
+    [params.footer]
+        show_footer = true
+
+    [params.typography]
+#        title_font = "Urbanist"
+        title_font = "Garamond"
+        body_font = "Source Sans Pro"
+
+    [params.colors]
+        theme_color = "#333333"
+        background_color = "#fcfbf9"
+        text_color = "#333333"
+        # link_color = "#0244ad"
+        link_color = "dodgerblue2"
+
+    [params.social]
+        [params.social.email]
+            name = "E-Mail"
+            class = "fas fa-envelope"
+            url = "mailto:abdalal@wharton.upenn.edu"
+            weight = 1
+        [params.social.github]
+            name = "GitHub"
+            class = "fab fa-github"
+            url = "https://github.com/abhinandan-dalal"
+            weight = 2
+        # [params.social.google_scholar]
+        #     name = "Google Scholar"
+        #     class = "ai ai-google-scholar"
+        #     url = "https://scholar.google.co.in/citations?user=dBN655QAAAAJ&hl=en"
+        #     weight = 3
+        #[params.social.institution]
+        #    name = "My institution"
+        #    class = "fas fa-university"
+        #    url = ""
+        #    weight = 5
+        [params.social.linkedin]
+            name = "LinkedIn"
+            class = "fab fa-linkedin"
+            url = "https://www.linkedin.com/in/abhinandan-dalal-3a98b2151/"
+            weight = 6
+        #[params.social.orcid]
+        #    name = "ORCID iD"
+        #    class = "fab fa-orcid"
+        #    url = "https://orcid.org/0000-0002-8862-8649"
+        #    weight = 7
+
+
+# Options for Markdown renderer
+[markup]
+
+    [markup.goldmark.renderer]
+        unsafe = true
+        xHTML = true
+
+    [markup.highlight]
+        style = 'dracula'
