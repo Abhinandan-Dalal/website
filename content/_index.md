@@ -1,7 +1,7 @@
 ---
 layout: landing_page
-title: "Anirban Chatterjee"
-description: "Anirban Chatterjee's research homepage"
+title: "Abhinandan Dalal"
+description: "Abhinandan Dalal's research homepage"
 sitemap:
   priority: 0.9
 
