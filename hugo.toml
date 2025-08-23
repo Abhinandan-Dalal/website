@@ -65,7 +65,7 @@ enableRobotsTXT = true
         # background_color = "#FFFAF0"   # floralwhite
         background_color = "#FDF5E6"   # oldlace
         text_color = "#333333"
-        link_color = "#0244ad"
+        link_color = "#007bff"
         # link_color = "cyan2"
         
     [params.social]
