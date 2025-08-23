@@ -3,3 +3,13 @@ h2,h3,h4,h5,h6 {text-align: left;}
 sm {
   font-size: 0.8em; line-height: 125%; display: block; margin-top: 4px;
 }
+
+/* Site title in the header */
+.site-title, .site-title a { 
+  color: #556B2F !important;   /* DarkOliveGreen */
+}
+
+/* Page-level H1 titles */
+h1, h1.page-title {
+  color: #556B2F !important;
+}
