@@ -3,12 +3,3 @@ h2,h3,h4,h5,h6 {text-align: left;}
 sm {
   font-size: 0.8em; line-height: 125%; display: block; margin-top: 4px;
 }
-
-:root {
-  --title-color: {{ .Site.Params.colors.title_color | default "#333333" }};
-}
-
-.site-title, .site-title a,
-h1, h2, h3 {
-  color: var(--title-color) !important;
-}
