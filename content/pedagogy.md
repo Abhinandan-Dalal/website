@@ -12,11 +12,17 @@ hide_title: true
 
 
 Fall 2025 STAT 9210: Observational Studies (for Graduate Students)
+
 Spring 2025 STAT 5330: Stochastic processes (for Undergraduate Students)
+
 Spring 2025 STAT 1110: Introductory Statistics (for Undergraduate Students)
+
 Fall 2024 STAT 4320: Mathematical Statistics (for Undergraduate Students)
+
 Fall 2023 STAT 4300 & STAT 5100: Probability (for Undergraduate/Graduate Students)
+
 Spring 2023 STAT 9700: Mathematical Statistics (for Graduate Students)
+
 Spring 2022 STAT 521: Applied Econometrics II (for Graduate Students)
 
 
