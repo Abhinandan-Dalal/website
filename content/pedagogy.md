@@ -10,8 +10,9 @@ hide_title: true
 <br>
 [**STAT 432** - *Spring 2022* - University of Pennsylvania](https://apps.wharton.upenn.edu/syllabi/2022A/STAT432001/)
 
+**Fall 2025**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[STAT 9210](https://github.com/Abhinandan-Dalal/website/blob/main/docs/course_syllabi/STAT9210.pdf): Observational Studies (for Graduate Students)
+
 | Fall 2025 | STAT 9210: Observational Studies (for Graduate Students) |
-|---|---|
 | Spring 2025 | STAT 5330: Stochastic processes (for Undergraduate Students) |
 | Spring 2025 | STAT 1110: Introductory Statistics (for Undergraduate Students) |
 | Fall 2024 | STAT 4320: Mathematical Statistics (for Undergraduate Students) |
