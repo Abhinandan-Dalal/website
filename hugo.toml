@@ -67,8 +67,7 @@ enableRobotsTXT = true
         text_color = "#333333"
         link_color = "#0244ad"
         # link_color = "cyan2"
-        title_color      = "#FFF8DC" # cornsilk
-
+        
     [params.social]
         [params.social.email]
             name = "E-Mail"
