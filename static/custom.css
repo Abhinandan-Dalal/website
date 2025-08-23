@@ -4,27 +4,22 @@ sm {
   font-size: 0.8em; line-height: 125%; display: block; margin-top: 4px;
 }
 
-/* Always use the background_color from hugo.toml */
+/* keep your existing rules above if you like */
+
+/* 🔹 Only force the page background; don't touch section/panel colors */
 html, body {
-  background-color: var(--bg) !important;   /* Hugo sets --bg from background_color */
+  background-color: var(--bg) !important;  /* set by hugo.toml background_color */
   background-image: none !important;
 }
 
-/* Make all main containers transparent and remove shadows */
-.site, .page, .content, .main, .container, .wrapper,
-header, footer, .post, .section, .card {
-  background: transparent !important;
-  box-shadow: none !important;
-}
-
-/* Disable dark-mode overrides */
-:root { color-scheme: light; }
-@media (prefers-color-scheme: dark) {
-  html, body { background-color: var(--bg) !important; }
-}
-
-/* Remove overlays or tinted backdrops */
+/* 🔹 If the theme adds a PAGE-WIDE overlay tint, neutralize just overlays */
 [class*="overlay"], [class*="shade"], .backdrop {
   background: transparent !important;
   backdrop-filter: none !important;
+}
+
+/* 🔹 Prevent dark-mode from swapping the base background */
+:root { color-scheme: light; }
+@media (prefers-color-scheme: dark) {
+  html, body { background-color: var(--bg) !important; }
 }
