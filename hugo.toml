@@ -67,7 +67,7 @@ enableRobotsTXT = true
         text_color = "#333333"
         link_color = "#0244ad"
         # link_color = "cyan2"
-        title_color      = "#8B008B"   # dark magenta site/page titles
+        title_color      = "##F0FFF0"   # honeydew
 
     [params.social]
         [params.social.email]
