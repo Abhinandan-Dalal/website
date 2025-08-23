@@ -3,3 +3,28 @@ h2,h3,h4,h5,h6 {text-align: left;}
 sm {
   font-size: 0.8em; line-height: 125%; display: block; margin-top: 4px;
 }
+
+/* Always use the background_color from hugo.toml */
+html, body {
+  background-color: var(--bg) !important;   /* Hugo sets --bg from background_color */
+  background-image: none !important;
+}
+
+/* Make all main containers transparent and remove shadows */
+.site, .page, .content, .main, .container, .wrapper,
+header, footer, .post, .section, .card {
+  background: transparent !important;
+  box-shadow: none !important;
+}
+
+/* Disable dark-mode overrides */
+:root { color-scheme: light; }
+@media (prefers-color-scheme: dark) {
+  html, body { background-color: var(--bg) !important; }
+}
+
+/* Remove overlays or tinted backdrops */
+[class*="overlay"], [class*="shade"], .backdrop {
+  background: transparent !important;
+  backdrop-filter: none !important;
+}
