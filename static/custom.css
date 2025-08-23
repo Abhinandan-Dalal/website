@@ -4,7 +4,3 @@ sm {
   font-size: 0.8em; line-height: 125%; display: block; margin-top: 4px;
 }
 
-.page, .content, .wrapper {
-  background: transparent !important;
-  box-shadow: none !important;
-}
