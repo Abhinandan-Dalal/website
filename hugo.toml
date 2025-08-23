@@ -25,7 +25,7 @@ enableRobotsTXT = true
     weight = 3
 [[menu.main]]
     name = "Pedagogy"
-    url  = "/teaching"
+    url  = "/pedagogy"
     weight = 2
 
 [sitemap]
