@@ -50,7 +50,7 @@ enableRobotsTXT = true
 
     [params.typography]
 #        title_font = "Urbanist"
-        title_font = "Noto Serif"
+        title_font = "Libre Baskerville"
         body_font = "EB Garamond"
 
     [params.colors]
