@@ -1,14 +1,24 @@
 ---
-title: "Teaching"
+title: "Pedagogy"
 hide_title: true
 ---
 
-# Teaching Assistant
+# Teaching Assistant at Penn
 [**STAT 432** - *Fall 2023* - University of Pennsylvania](https://apps.wharton.upenn.edu/syllabi/2022A/STAT432001/)
 <br>
 [**STAT 961** - *Fall 2022* - University of Pennsylvania](https://katsevich-teaching.github.io/stat-9610-fall-2022/)
 <br>
 [**STAT 432** - *Spring 2022* - University of Pennsylvania](https://apps.wharton.upenn.edu/syllabi/2022A/STAT432001/)
+
+
+Fall 2025 STAT 9210: Observational Studies (for Graduate Students)
+Spring 2025 STAT 5330: Stochastic processes (for Undergraduate Students)
+Spring 2025 STAT 1110: Introductory Statistics (for Undergraduate Students)
+Fall 2024 STAT 4320: Mathematical Statistics (for Undergraduate Students)
+Fall 2023 STAT 4300 & STAT 5100: Probability (for Undergraduate/Graduate Students)
+Spring 2023 STAT 9700: Mathematical Statistics (for Graduate Students)
+Spring 2022 STAT 521: Applied Econometrics II (for Graduate Students)
+
 
 
 
