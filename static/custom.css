@@ -4,6 +4,6 @@ sm {
   font-size: 0.8em; line-height: 125%; display: block; margin-top: 4px;
 }
 
-.site-title {
-  color: #007bff; /* This sets the title color to blue */
+.site-header h1 {
+  color: blue;
 }
