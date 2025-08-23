@@ -4,12 +4,6 @@ sm {
   font-size: 0.8em; line-height: 125%; display: block; margin-top: 4px;
 }
 
-/* Site title in the header */
-.site-title, .site-title a { 
-  color: #556B2F !important;   /* DarkOliveGreen */
-}
-
-/* Page-level H1 titles */
-h1, h1.page-title {
-  color: #556B2F !important;
+.site-title {
+  color: #007bff; /* This sets the title color to blue */
 }
