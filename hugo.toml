@@ -56,7 +56,8 @@ enableRobotsTXT = true
     [params.colors]
         theme_color = "#333333"
         # background_color = "#fcfbf9"
-        background_color = "lemonchiffon1"
+        # background_color = "lemonchiffon1"
+        background_color = "#FFFACD"
         text_color = "#333333"
         link_color = "#0244ad"
         # link_color = "cyan2"
