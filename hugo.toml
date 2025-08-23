@@ -50,8 +50,8 @@ enableRobotsTXT = true
 
     [params.typography]
 #        title_font = "Urbanist"
-        title_font = "Garamond"
-        body_font = "Source Sans Pro"
+        title_font = "Montserrat"
+        body_font = "Garamond"
 
     [params.colors]
         theme_color = "#333333"
