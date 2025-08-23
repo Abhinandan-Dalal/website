@@ -4,22 +4,7 @@ sm {
   font-size: 0.8em; line-height: 125%; display: block; margin-top: 4px;
 }
 
-/* keep your existing rules above if you like */
-
-/* 🔹 Only force the page background; don't touch section/panel colors */
-html, body {
-  background-color: var(--bg) !important;  /* set by hugo.toml background_color */
-  background-image: none !important;
-}
-
-/* 🔹 If the theme adds a PAGE-WIDE overlay tint, neutralize just overlays */
-[class*="overlay"], [class*="shade"], .backdrop {
+.page, .content, .wrapper {
   background: transparent !important;
-  backdrop-filter: none !important;
-}
-
-/* 🔹 Prevent dark-mode from swapping the base background */
-:root { color-scheme: light; }
-@media (prefers-color-scheme: dark) {
-  html, body { background-color: var(--bg) !important; }
+  box-shadow: none !important;
 }
