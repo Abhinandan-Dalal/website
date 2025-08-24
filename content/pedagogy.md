@@ -16,6 +16,11 @@ hide_title: true
         padding: 10px 0;
         vertical-align: top;
     }
+
+    /* This rule styles the table rows and removes the border */
+    .ta-table tr {
+        border-bottom: none !important;
+    }
     
     .ta-table {
         border-collapse: collapse; /* Prevents gaps between cells */
