@@ -37,9 +37,9 @@ hide_title: true
         padding-right: 20px; /* Add some space between the columns */
         white-space: nowrap; /* Prevent the text from wrapping */
     }
-    .ta-table td:last-child {
+/*     .ta-table td:last-child {
         white-space: nowrap;
-    }
+    } */
     
 /*     /* Add a border to the bottom of each row for separation */
     .ta-table tr:not(:last-child) {
