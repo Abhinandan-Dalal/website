@@ -92,7 +92,7 @@ hide_title: true
     <tbody>
         <tr>
             <td>Spring 2025</td>
-            <td><a href="https://sites.google.com/view/wharton-drp/"><strong>Wharton Directed Reading Program (WDRP)</strong></a> mentor for <em>Sheyan Lalmohammed</em></td>
+            <td><strong>Wharton Directed Reading Program</strong> (<a href="https://sites.google.com/view/wharton-drp/">WDRP</a>) mentor for <em>Sheyan Lalmohammed</em></td>
         </tr>
         <tr>
             <td>Fall 2024</td>
