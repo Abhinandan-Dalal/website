@@ -69,7 +69,7 @@ slug: research
   }
 </style>
 
-###### New aspects
+# New aspects #
 
 <!-- ===== Colored subheads + abstract toggles (drop this once at top) ===== -->
 <style>
