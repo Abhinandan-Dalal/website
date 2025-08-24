@@ -87,6 +87,30 @@ hide_title: true
 </table>
 
 
+
+<h2 style="color: #556B2F;">Mentoring Experience</h2>
+<table class="ta-table">
+    <tbody>
+        <tr>
+            <td>Spring 2025</td>
+            <td><strong><a href="https://sites.google.com/view/wharton-drp/">Wharton Directed Reading Program (WDRP)</a></strong> mentor for <em>Sheyan Lalmohammed</em></td>
+        </tr>
+        <tr>
+            <td>Fall 2024</td>
+            <td><strong>PhD Peer program</strong> mentor for incoming PhD student <em>Soham Mallick</em> to navigate the program and transition to Penn</td>
+        </tr>
+        <tr>
+            <td>Spring 2024</td>
+            <td><strong><a href="https://sites.google.com/view/urps-penn">Undergraduate Research in Probability and Statistics (URPS)</a></strong> mentor for <em>Roberto Ligeralde</em>, with Da Wu</td>
+        </tr>
+        <tr>
+            <td>Spring 2022</td>
+            <td><strong><a href="https://sites.google.com/view/urps-penn">Undergraduate Research in Probability and Statistics (URPS)</a></strong> mentor for <em>Ryan Jeong</em> and <em>Alexandru Lopotenco</em>, with Prof. Robin Pemantle</td>
+        </tr>
+    </tbody>
+</table>
+
+
 <!-- Add a style tag with CSS to control the layout -->
 <style>
   .content-container {
