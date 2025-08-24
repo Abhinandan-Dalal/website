@@ -89,7 +89,7 @@ My teaching assistantships have provided me with the opportunity to guide both u
 
 
 <h2 style="color: #556B2F;">Mentoring Experience</h2>
-I am committed to helping students grow in their academic and professional journeys. Here is a selection of my mentoring experiences.
+I have been fortunate to mentor students and support their academic and professional journeys in the following programs.
 <table class="ta-table">
     <tbody>
         <tr>
