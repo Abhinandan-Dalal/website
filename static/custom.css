@@ -7,15 +7,3 @@ sm {
 header .title {
   color: rgb(102, 153, 51); /* cv-olive */
 }
-
-/* This rule targets all links that start with http or https */
-a[href^="http"] {
-  color: #007bff;
-}
-
-/* This rule adds a small icon to external links for clarity */
-a[target="_blank"]:after {
-  content: " ↗";
-  font-size: 0.8em;
-  vertical-align: super;
-}
