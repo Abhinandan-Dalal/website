@@ -71,51 +71,51 @@ slug: research
 
 # New aspects #
 
-<!-- ===== Colored subheads + abstract toggles (drop this once at top) ===== -->
+<!-- ===== ONE-TIME helpers (colors, icons, small abstract) ===== -->
 <style>
+  /* Colored subheads (not structural headings) */
   .color-subhead{
-    display:inline-block;font-weight:700;font-size:1.15rem;
-    padding:.2rem .6rem;border-radius:.5rem;margin:1.25rem 0 .5rem;line-height:1.3;
-    color:#0b3d91;background:#e8f0fe; /* default; override via data-color or style="" */
+    display:inline-block; font-weight:700; font-size:1.15rem;
+    padding:.25rem .6rem; border-radius:.55rem; margin:1.25rem 0 .6rem; line-height:1.3;
+    color:#0b3d91; background:#e8f0fe; /* default */
   }
   .color-subhead[data-color="green"]  { color:#0f5132; background:#d1e7dd; }
-  .color-subhead[data-color="rose"]   { color:#842029; background:#f8d7da; }
   .color-subhead[data-color="amber"]  { color:#664d03; background:#fff3cd; }
   .color-subhead[data-color="purple"] { color:#51258f; background:#e9d5ff; }
 
-  .pub { margin:.9rem 0 1.2rem; }
-  .pub .title { font-weight:600; }
-  .pub .meta { font-size:.95rem; opacity:.9; }
+  /* Publication block */
+  .pub{ margin:.9rem 0 1.2rem; }
+  .pub .title{ font-weight:600; }
+  .pub .meta{ font-size:.95rem; opacity:.9; display:flex; flex-wrap:wrap; gap:.5rem .75rem; align-items:center; }
 
-  details.nt-abs { margin:.35rem 0 0 .25rem; }
-  details.nt-abs > summary {
+  /* Icon links */
+  .icon-link{ text-decoration:none; display:inline-flex; align-items:center; gap:.35rem; }
+  .icon{ font-style:normal; font-size:1rem; line-height:1; }
+
+  /* Abstract toggle: smaller body text */
+  details.simple{ margin:.35rem 0 0 .25rem; }
+  details.simple > summary{
     cursor:pointer; list-style:none; display:inline-flex; align-items:center; gap:.45rem; font-weight:600;
   }
-  details.nt-abs > summary::before {
-    content:"▶"; display:inline-block; transform:translateY(1px); transition:transform .15s ease-in-out;
+  details.simple > summary::before{
+    content:"▶"; display:inline-block; transform:translateY(1px); transition:transform .15s;
   }
-  details.nt-abs[open] > summary::before { transform:rotate(90deg) translateY(0); }
-  details.nt-abs .body { margin:.45rem 0 .2rem 1.4rem; max-width:70ch; }
-  .chip { border:1px solid rgba(0,0,0,.1); border-radius:999px; padding:.15rem .6rem; font-weight:600; background:#f7f7f7; }
+  details.simple[open] > summary::before{ transform:rotate(90deg); }
+  details.simple .body{
+    font-size:.85rem; line-height:1.35; color:#444;
+    margin:.4rem 0 .2rem 1.45rem; max-width:68ch;
+  }
 
+  .chip{
+    border:1px solid rgba(0,0,0,.1); border-radius:999px; padding:.15rem .6rem; font-weight:600; background:#f7f7f7;
+  }
   @media (prefers-color-scheme: dark){
     .chip{ background:#1f1f1f; border-color:#333; }
     .color-subhead{ filter:saturate(1.08) brightness(1.08); }
   }
 </style>
 
-<script>
-  document.addEventListener('click', e => {
-    const s = e.target.closest('summary[data-label]');
-    if(!s) return;
-    setTimeout(()=>{
-      const open = s.parentElement.hasAttribute('open');
-      const [closedTxt, openTxt] = s.dataset.label.split('|');
-      s.querySelector('.chip').textContent = open ? (openTxt||closedTxt) : closedTxt;
-    }, 0);
-  });
-</script>
-<!-- ===== end helpers ===== -->
+<!-- ===== CONTENT STARTS ===== -->
 
 <div class="color-subhead" data-color="purple">Preprints</div>
 
@@ -124,11 +124,14 @@ slug: research
     <a href="https://arxiv.org/abs/2407.16550">A Kernel-Based Conditional Two-Sample Test Using Nearest Neighbors (with Applications to Calibration, Regression Curves, and Simulation-Based Inference)</a>
   </div>
   <div class="meta">
-    Anirban Chatterjee, Ziang Niu, Bhaswar B. Bhattacharya. arXiv (2024).
+    Anirban Chatterjee, <a href="https://ziangniu6.github.io/">Ziang Niu</a>, <a href="https://www-stat.wharton.upenn.edu/~bhaswar/">Bhaswar B. Bhattacharya</a>.
+    · <a class="icon-link" href="https://arxiv.org/abs/2407.16550"><span class="icon">📄</span>arXiv</a>
   </div>
-  <details class="nt-abs">
-    <summary data-label="Non-technical abstract|Hide abstract"><span class="chip">Non-technical abstract</span></summary>
-    <div class="body">Add a 3–5 sentence lay summary here (what the problem is, why it matters, and the high-level idea).</div>
+  <details class="simple">
+    <summary>🤔➡️💡 <span class="chip">In plain words</span></summary>
+    <div class="body">
+      Add a short, 2–4 sentence, friendly summary of what this paper does and why it matters.
+    </div>
   </details>
 </div>
 
@@ -137,11 +140,12 @@ slug: research
     <a href="https://arxiv.org/abs/2404.13822">Higher-Order Graphon Theory: Fluctuations, Degeneracies, and Inference</a>
   </div>
   <div class="meta">
-    Anirban Chatterjee, Soham Dan, Bhaswar B. Bhattacharya. arXiv (2024).
+    Anirban Chatterjee, <a href="https://sdan2.github.io/">Soham Dan</a>, <a href="https://www-stat.wharton.upenn.edu/~bhaswar/">Bhaswar B. Bhattacharya</a>.
+    · <a class="icon-link" href="https://arxiv.org/abs/2404.13822"><span class="icon">📄</span>arXiv</a>
   </div>
-  <details class="nt-abs">
-    <summary data-label="Non-technical abstract|Hide abstract"><span class="chip">Non-technical abstract</span></summary>
-    <div class="body">Add a 3–5 sentence lay summary here.</div>
+  <details class="simple">
+    <summary>🤔➡️💡 <span class="chip">In plain words</span></summary>
+    <div class="body">Add your plain-language summary here…</div>
   </details>
 </div>
 
@@ -150,11 +154,12 @@ slug: research
     <a href="https://arxiv.org/abs/2401.01866">Fluctuation of the Largest Eigenvalue of a Kernel Matrix with application in Graphon-based Random Graphs</a>
   </div>
   <div class="meta">
-    Anirban Chatterjee, Jiaoyang Huang. arXiv (2024).
+    Anirban Chatterjee, <a href="https://jiaoyang.github.io/">Jiaoyang Huang</a>.
+    · <a class="icon-link" href="https://arxiv.org/abs/2401.01866"><span class="icon">📄</span>arXiv</a>
   </div>
-  <details class="nt-abs">
-    <summary data-label="Non-technical abstract|Hide abstract"><span class="chip">Non-technical abstract</span></summary>
-    <div class="body">Add a 3–5 sentence lay summary here.</div>
+  <details class="simple">
+    <summary>🤔➡️💡 <span class="chip">In plain words</span></summary>
+    <div class="body">Add your plain-language summary here…</div>
   </details>
 </div>
 
@@ -162,14 +167,15 @@ slug: research
 
 <div class="pub">
   <div class="title">
-    <a href="https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asae048/7789470">Boosting the Power of Kernel Two-Sample Tests</a>
+    <a href="https://doi.org/10.1093/biomet/asae048">Boosting the Power of Kernel Two-Sample Tests</a>
   </div>
   <div class="meta">
-    Anirban Chatterjee, Bhaswar B. Bhattacharya. <em>Biometrika</em> (2024).
+    Anirban Chatterjee, <a href="https://www-stat.wharton.upenn.edu/~bhaswar/">Bhaswar B. Bhattacharya</a>. <em>Biometrika</em>.
+    · <a class="icon-link" href="https://doi.org/10.1093/biomet/asae048"><span class="icon">📚</span>Journal</a>
   </div>
-  <details class="nt-abs">
-    <summary data-label="Non-technical abstract|Hide abstract"><span class="chip">Non-technical abstract</span></summary>
-    <div class="body">Add a 2–4 sentence lay summary highlighting the main idea and takeaway.</div>
+  <details class="simple">
+    <summary>🤔➡️💡 <span class="chip">In plain words</span></summary>
+    <div class="body">Add a short, accessible takeaway…</div>
   </details>
 </div>
 
@@ -178,11 +184,12 @@ slug: research
     <a href="https://academic.oup.com/imaiai/article-abstract/13/3/iaae019/7726402">Detecting Planted Partition in Sparse Multi-Layer Networks</a>
   </div>
   <div class="meta">
-    Anirban Chatterjee, Sagnik Nandy, Ritwik Sadhu. <em>Information and Inference: A Journal of the IMA</em> (2024).
+    Anirban Chatterjee, <a href="https://sagnik-nandy.github.io/">Sagnik Nandy</a>, <a href="https://scholar.google.co.in/citations?user=2ZWV4VMAAAAJ&hl=en">Ritwik Sadhu</a>. <em>Information and Inference: A Journal of the IMA</em>.
+    · <a class="icon-link" href="https://academic.oup.com/imaiai/article-abstract/13/3/iaae019/7726402"><span class="icon">📚</span>Journal</a>
   </div>
-  <details class="nt-abs">
-    <summary data-label="Non-technical abstract|Hide abstract"><span class="chip">Non-technical abstract</span></summary>
-    <div class="body">Add a short plain-language summary.</div>
+  <details class="simple">
+    <summary>🤔➡️💡 <span class="chip">In plain words</span></summary>
+    <div class="body">Add a short, accessible takeaway…</div>
   </details>
 </div>
 
@@ -191,24 +198,26 @@ slug: research
     <a href="https://doi.org/10.1017/S0963548322000335">Fluctuations of Subgraph Counts in Graphon based Random Graphs</a>
   </div>
   <div class="meta">
-    Bhaswar B. Bhattacharya, Anirban Chatterjee, Svante Janson. <em>Combinatorics, Probability and Computing</em> (2022).
+    <a href="https://www-stat.wharton.upenn.edu/~bhaswar/">Bhaswar B. Bhattacharya</a>, Anirban Chatterjee, <a href="https://www.katalog.uu.se/profile/?id=N94-1742">Svante Janson</a>. <em>Combinatorics, Probability and Computing</em>.
+    · <a class="icon-link" href="https://doi.org/10.1017/S0963548322000335"><span class="icon">📚</span>Journal</a>
   </div>
-  <details class="nt-abs">
-    <summary data-label="Non-technical abstract|Hide abstract"><span class="chip">Non-technical abstract</span></summary>
-    <div class="body">Add a short plain-language summary.</div>
+  <details class="simple">
+    <summary>🤔➡️💡 <span class="chip">In plain words</span></summary>
+    <div class="body">Add a short, accessible takeaway…</div>
   </details>
 </div>
 
 <div class="pub">
   <div class="title">
-    <a href="https://arxiv.org/abs/2011.07912">Spectral properties for the Laplacian of a generalized Wigner matrix</a>
+    <a href="https://doi.org/10.1142/S2010326320500372">Spectral properties for the Laplacian of a generalized Wigner matrix</a>
   </div>
   <div class="meta">
-    Anirban Chatterjee, Rajat Subhra Hazra. <em>Random Matrices: Theory and Applications</em> (2020).
+    Anirban Chatterjee, <a href="https://sites.google.com/site/rajatsubrahazra/">Rajat Subhra Hazra</a>. <em>Random Matrices: Theory and Applications</em>.
+    · <a class="icon-link" href="https://doi.org/10.1142/S2010326320500372"><span class="icon">📚</span>Journal</a>
   </div>
-  <details class="nt-abs">
-    <summary data-label="Non-technical abstract|Hide abstract"><span class="chip">Non-technical abstract</span></summary>
-    <div class="body">Add a short plain-language summary.</div>
+  <details class="simple">
+    <summary>🤔➡️💡 <span class="chip">In plain words</span></summary>
+    <div class="body">Add a short, accessible takeaway…</div>
   </details>
 </div>
 
@@ -219,13 +228,17 @@ slug: research
     <a href="https://proceedings.mlr.press/v238/chakraborty24a.html">PrIsing: Privacy-Preserving Peer Effect Estimation via Ising Model</a>
   </div>
   <div class="meta">
-    Abhinav Chakraborty, Anirban Chatterjee, <strong>Abhinandan Dalal</strong>. <em>International Conference on Artificial Intelligence and Statistics (AISTATS)</em>, 2024.
+    <a href="https://abhinavc3.github.io/">Abhinav Chakraborty</a>, Anirban Chatterjee, <a href="https://statistics.wharton.upenn.edu/profile/abdalal/">Abhinandan Dalal</a>. <em>International Conference on Artificial Intelligence and Statistics (AISTATS)</em>, 2024.
+    · <a class="icon-link" href="https://proceedings.mlr.press/v238/chakraborty24a.html"><span class="icon">📚</span>Proceedings</a>
+    <!-- Add a GitHub link if you want; e.g.:  · <a class="icon-link" href="https://github.com/USER/REPO"><span class="icon">💻</span>GitHub</a> -->
   </div>
-  <details class="nt-abs">
-    <summary data-label="Non-technical abstract|Hide abstract"><span class="chip">Non-technical abstract</span></summary>
-    <div class="body">Add a short plain-language summary.</div>
+  <details class="simple">
+    <summary>🤔➡️💡 <span class="chip">In plain words</span></summary>
+    <div class="body">Add a short, accessible takeaway…</div>
   </details>
 </div>
+
+<br/>
 
 <!-- Optional: horizontal rule or spacer -->
 <br/>
