@@ -37,17 +37,20 @@ hide_title: true
         padding-right: 20px; /* Add some space between the columns */
         white-space: nowrap; /* Prevent the text from wrapping */
     }
+    .ta-table td:last-child {
+        white-space: nowrap;
+    }
     
-    /* Add a border to the bottom of each row for separation */
+/*     /* Add a border to the bottom of each row for separation */
     .ta-table tr:not(:last-child) {
         border-bottom: 1px solid #ddd;
-    }
+    } */
 
-    /* Style the link text */
+/*     /* Style the link text */
     .ta-table a {
         color: var(--olive-color); /* Make links the same color as the header */
         text-decoration: none; /* Remove the underline */
-    }
+    } */
     .ta-table a:hover {
         text-decoration: underline; /* Add underline on hover for usability */
     }
