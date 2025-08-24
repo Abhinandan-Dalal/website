@@ -13,10 +13,10 @@ hide_title: true
 **Fall 2025**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[STAT 9210](https://github.com/Abhinandan-Dalal/website/blob/main/docs/course_syllabi/STAT9210.pdf): Observational Studies (for Graduate Students) <br>
 **Spring 2025**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[STAT 5330](https://github.com/Abhinandan-Dalal/website/blob/main/docs/course_syllabi/stat5330.pdf) Stochastic processes (for Undergraduate Students) <br>
 **Spring 2025**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[STAT 1110](https://github.com/Abhinandan-Dalal/website/blob/main/docs/course_syllabi/stat1110.pdf) Introductory Statistics (for Undergraduate Students) <br>
-**Fall 2024**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; STAT 4320: Mathematical Statistics (for Undergraduate Students) <br>
-**Fall 2023**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; STAT 4300 & STAT 5100: Probability (for Undergraduate/Graduate Students) <br>
-**Spring 2023**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  STAT 9700: Mathematical Statistics (for Graduate Students) <br>
-**Spring 2022**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; STAT 521: Applied Econometrics II (for Graduate Students) <br>
+**Fall 2024**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [STAT 4320](https://github.com/Abhinandan-Dalal/website/blob/main/docs/course_syllabi/stat4320.pdf) Mathematical Statistics (for Undergraduate Students) <br>
+**Fall 2023**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [STAT 4300](https://github.com/Abhinandan-Dalal/website/blob/main/docs/course_syllabi/STAT4300.pdf) & [STAT 5100](https://github.com/Abhinandan-Dalal/website/blob/main/docs/course_syllabi/stat5100.pdf) Probability (for Undergraduate/Graduate Students) <br>
+**Spring 2023**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [STAT 9700](https://github.com/Abhinandan-Dalal/website/blob/main/docs/course_syllabi/stat9700.pdf) Mathematical Statistics (for Graduate Students) <br>
+**Spring 2022**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [STAT 521](https://github.com/Abhinandan-Dalal/website/blob/main/docs/course_syllabi/stat521.pdf) Applied Econometrics II (for Graduate Students) <br>
 
 
 
