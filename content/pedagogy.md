@@ -13,7 +13,7 @@ hide_title: true
     /* Style the table to remove borders and padding */
     .ta-table td {
         border: none !important; /* Add this line to remove borders */
-        padding: 10px 0;
+        padding: 0;
         vertical-align: top;
     }
 
