@@ -4,7 +4,7 @@ hide_title: true
 slug: research
 ---
 
-# Conference Publications
+<!-- # Conference Publications
  
 <span style="font-size: 0.9em; font-weight: bold;">*[_PrIsing: Privacy-Preserving Peer Effect Estimation via Ising Model._](https://proceedings.mlr.press/v238/chakraborty24a.html)* [<i class="fa-solid fa-book"></i>](https://proceedings.mlr.press/v238/chakraborty24a.html) &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2401.16596) &nbsp; [<i class="fab fa-github"></i>](https://github.com/anirbanc96/PrIsing)</span>     
 <span style="font-size: 0.8em;">[Abhinav Chakraborty](https://abhinavc3.github.io/), Anirban Chatterjee, [Abhinandan Dalal](https://statistics.wharton.upenn.edu/profile/abdalal/). *International Conference on Artificial Intelligence and Statistics 2024*.</span>
@@ -41,11 +41,7 @@ slug: research
   }
 </style>
 
-# New aspects #
-
----
-title: "Publications"
----
+# New aspects # -->
 
 <!-- Icons: Academicons (scholarly) + Font Awesome (GitHub only) -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
