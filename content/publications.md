@@ -56,6 +56,13 @@ title: "Publications"
   .pub .title { font-weight: 600; font-size: 1em; }
   .pub .meta { font-size: .9em; opacity: .9; margin-top: .15rem; }
 
+  :root {
+         --olive-color: rgb(102, 153, 51); /* Define a CSS variable for the olive color */
+     }
+  .olive-word {
+     color: var(--olive-color);
+   }
+
   details.simple { margin: .3rem 0 0 .1rem; }
   details.simple > summary {
     cursor: pointer; list-style: none; display: inline-flex; align-items: center; gap: .4rem; font-weight: 600;
@@ -86,7 +93,7 @@ title: "Publications"
   </div>
   <div class="meta">Anirban Chatterjee, Ziang Niu, Bhaswar B. Bhattacharya</div>
   <details class="simple">
-    <summary><i class="ai ai-open-access ai"></i> In plain words</summary>
+    <summary><i class="ai ai-open-access ai"></i><span class="olive-word"> In plain words<span class="olive-word"></summary>
     <div class="body">Add your short, friendly summary here.</div>
   </details>
 </div>
