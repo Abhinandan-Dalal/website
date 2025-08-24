@@ -12,9 +12,9 @@ hide_title: true
     
     /* Style the table to remove borders and padding */
     .ta-table td {
-        border: none;
+        border: none !important; /* Add this line to remove borders */
         padding: 10px 0;
-        vertical-align: top; /* Align content to the top of the cell */
+        vertical-align: top;
     }
     
     .ta-table {
