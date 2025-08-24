@@ -71,64 +71,58 @@ slug: research
 
 # New aspects #
 
-<!-- ===== ONE-TIME helpers (colors, icons, small abstract) ===== -->
-<style>
-  /* Colored subheads (not structural headings) */
-  .color-subhead{
-    display:inline-block; font-weight:700; font-size:1.15rem;
-    padding:.25rem .6rem; border-radius:.55rem; margin:1.25rem 0 .6rem; line-height:1.3;
-    color:#0b3d91; background:#e8f0fe; /* default */
-  }
-  .color-subhead[data-color="green"]  { color:#0f5132; background:#d1e7dd; }
-  .color-subhead[data-color="amber"]  { color:#664d03; background:#fff3cd; }
-  .color-subhead[data-color="purple"] { color:#51258f; background:#e9d5ff; }
+---
+title: "Publications"
+---
 
-  /* Publication block */
-  .pub{ margin:.9rem 0 1.2rem; }
-  .pub .title{ font-weight:600; }
-  .pub .meta{ font-size:.95rem; opacity:.9; display:flex; flex-wrap:wrap; gap:.5rem .75rem; align-items:center; }
+<!-- Load Font Awesome (icons). If your theme already loads FA, you can remove this line. -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
+
+<style>
+  /* Headings like Pedagogy page: keep clean, add spacing only */
+  .pub-head { margin: 1.25rem 0 .5rem; }
+  .pub { margin: .9rem 0 1.2rem; }
+  .pub .title { font-weight: 600; }
+  .pub .meta { font-size: .95rem; opacity: .9; display: flex; flex-wrap: wrap; gap: .6rem .9rem; align-items: center; }
 
   /* Icon links */
-  .icon-link{ text-decoration:none; display:inline-flex; align-items:center; gap:.35rem; }
-  .icon{ font-style:normal; font-size:1rem; line-height:1; }
+  .icon-link { text-decoration: none; display: inline-flex; align-items: center; gap: .4rem; }
+  .icon-link i { font-size: .95rem; }
 
-  /* Abstract toggle: smaller body text */
-  details.simple{ margin:.35rem 0 0 .25rem; }
-  details.simple > summary{
-    cursor:pointer; list-style:none; display:inline-flex; align-items:center; gap:.45rem; font-weight:600;
+  /* Abstract toggle (smaller text) */
+  details.simple { margin: .35rem 0 0 .1rem; }
+  details.simple > summary {
+    cursor: pointer; list-style: none; display: inline-flex; align-items: center; gap: .5rem; font-weight: 600;
   }
-  details.simple > summary::before{
-    content:"▶"; display:inline-block; transform:translateY(1px); transition:transform .15s;
+  details.simple > summary::before {
+    content: "▶"; display: inline-block; transform: translateY(1px); transition: transform .15s;
   }
-  details.simple[open] > summary::before{ transform:rotate(90deg); }
-  details.simple .body{
-    font-size:.85rem; line-height:1.35; color:#444;
-    margin:.4rem 0 .2rem 1.45rem; max-width:68ch;
+  details.simple[open] > summary::before { transform: rotate(90deg); }
+  details.simple .body {
+    font-size: .85rem; line-height: 1.35; color: #444;
+    margin: .4rem 0 .2rem 1.45rem; max-width: 68ch;
   }
-
-  .chip{
-    border:1px solid rgba(0,0,0,.1); border-radius:999px; padding:.15rem .6rem; font-weight:600; background:#f7f7f7;
+  .chip {
+    border: 1px solid rgba(0,0,0,.1); border-radius: 999px; padding: .15rem .6rem; font-weight: 600; background: #f7f7f7;
   }
   @media (prefers-color-scheme: dark){
-    .chip{ background:#1f1f1f; border-color:#333; }
-    .color-subhead{ filter:saturate(1.08) brightness(1.08); }
+    .chip { background:#1f1f1f; border-color:#333; }
   }
 </style>
 
-<!-- ===== CONTENT STARTS ===== -->
-
-<div class="color-subhead" data-color="purple">Preprints</div>
+<h2 class="pub-head">Preprints</h2>
 
 <div class="pub">
   <div class="title">
     <a href="https://arxiv.org/abs/2407.16550">A Kernel-Based Conditional Two-Sample Test Using Nearest Neighbors (with Applications to Calibration, Regression Curves, and Simulation-Based Inference)</a>
   </div>
   <div class="meta">
-    Anirban Chatterjee, <a href="https://ziangniu6.github.io/">Ziang Niu</a>, <a href="https://www-stat.wharton.upenn.edu/~bhaswar/">Bhaswar B. Bhattacharya</a>.
-    · <a class="icon-link" href="https://arxiv.org/abs/2407.16550"><span class="icon">📄</span>arXiv</a>
+    Anirban Chatterjee, <a href="https://ziangniu6.github.io/">Ziang Niu</a>, <a href="https://www-stat.wharton.upenn.edu/~bhaswar/">Bhaswar B. Bhattacharya</a>
+    · <a class="icon-link" href="https://arxiv.org/abs/2407.16550"><i class="fas fa-file-lines"></i> arXiv</a>
+    <!-- · <a class="icon-link" href="https://github.com/USER/REPO"><i class="fab fa-github"></i> GitHub</a> -->
   </div>
   <details class="simple">
-    <summary>🤔➡️💡 <span class="chip">In plain words</span></summary>
+    <summary><i class="fas fa-lightbulb"></i> <span class="chip">In plain words</span></summary>
     <div class="body">
       Add a short, 2–4 sentence, friendly summary of what this paper does and why it matters.
     </div>
@@ -140,11 +134,11 @@ slug: research
     <a href="https://arxiv.org/abs/2404.13822">Higher-Order Graphon Theory: Fluctuations, Degeneracies, and Inference</a>
   </div>
   <div class="meta">
-    Anirban Chatterjee, <a href="https://sdan2.github.io/">Soham Dan</a>, <a href="https://www-stat.wharton.upenn.edu/~bhaswar/">Bhaswar B. Bhattacharya</a>.
-    · <a class="icon-link" href="https://arxiv.org/abs/2404.13822"><span class="icon">📄</span>arXiv</a>
+    Anirban Chatterjee, <a href="https://sdan2.github.io/">Soham Dan</a>, <a href="https://www-stat.wharton.upenn.edu/~bhaswar/">Bhaswar B. Bhattacharya</a>
+    · <a class="icon-link" href="https://arxiv.org/abs/2404.13822"><i class="fas fa-file-lines"></i> arXiv</a>
   </div>
   <details class="simple">
-    <summary>🤔➡️💡 <span class="chip">In plain words</span></summary>
+    <summary><i class="fas fa-lightbulb"></i> <span class="chip">In plain words</span></summary>
     <div class="body">Add your plain-language summary here…</div>
   </details>
 </div>
@@ -154,27 +148,27 @@ slug: research
     <a href="https://arxiv.org/abs/2401.01866">Fluctuation of the Largest Eigenvalue of a Kernel Matrix with application in Graphon-based Random Graphs</a>
   </div>
   <div class="meta">
-    Anirban Chatterjee, <a href="https://jiaoyang.github.io/">Jiaoyang Huang</a>.
-    · <a class="icon-link" href="https://arxiv.org/abs/2401.01866"><span class="icon">📄</span>arXiv</a>
+    Anirban Chatterjee, <a href="https://jiaoyang.github.io/">Jiaoyang Huang</a>
+    · <a class="icon-link" href="https://arxiv.org/abs/2401.01866"><i class="fas fa-file-lines"></i> arXiv</a>
   </div>
   <details class="simple">
-    <summary>🤔➡️💡 <span class="chip">In plain words</span></summary>
+    <summary><i class="fas fa-lightbulb"></i> <span class="chip">In plain words</span></summary>
     <div class="body">Add your plain-language summary here…</div>
   </details>
 </div>
 
-<div class="color-subhead" data-color="green">Journal Publications</div>
+<h2 class="pub-head">Journal Publications</h2>
 
 <div class="pub">
   <div class="title">
     <a href="https://doi.org/10.1093/biomet/asae048">Boosting the Power of Kernel Two-Sample Tests</a>
   </div>
   <div class="meta">
-    Anirban Chatterjee, <a href="https://www-stat.wharton.upenn.edu/~bhaswar/">Bhaswar B. Bhattacharya</a>. <em>Biometrika</em>.
-    · <a class="icon-link" href="https://doi.org/10.1093/biomet/asae048"><span class="icon">📚</span>Journal</a>
+    Anirban Chatterjee, <a href="https://www-stat.wharton.upenn.edu/~bhaswar/">Bhaswar B. Bhattacharya</a>. <em>Biometrika</em>
+    · <a class="icon-link" href="https://doi.org/10.1093/biomet/asae048"><i class="fas fa-book-open"></i> Journal</a>
   </div>
   <details class="simple">
-    <summary>🤔➡️💡 <span class="chip">In plain words</span></summary>
+    <summary><i class="fas fa-lightbulb"></i> <span class="chip">In plain words</span></summary>
     <div class="body">Add a short, accessible takeaway…</div>
   </details>
 </div>
@@ -184,11 +178,11 @@ slug: research
     <a href="https://academic.oup.com/imaiai/article-abstract/13/3/iaae019/7726402">Detecting Planted Partition in Sparse Multi-Layer Networks</a>
   </div>
   <div class="meta">
-    Anirban Chatterjee, <a href="https://sagnik-nandy.github.io/">Sagnik Nandy</a>, <a href="https://scholar.google.co.in/citations?user=2ZWV4VMAAAAJ&hl=en">Ritwik Sadhu</a>. <em>Information and Inference: A Journal of the IMA</em>.
-    · <a class="icon-link" href="https://academic.oup.com/imaiai/article-abstract/13/3/iaae019/7726402"><span class="icon">📚</span>Journal</a>
+    Anirban Chatterjee, <a href="https://sagnik-nandy.github.io/">Sagnik Nandy</a>, <a href="https://scholar.google.co.in/citations?user=2ZWV4VMAAAAJ&hl=en">Ritwik Sadhu</a>. <em>Information and Inference: A Journal of the IMA</em>
+    · <a class="icon-link" href="https://academic.oup.com/imaiai/article-abstract/13/3/iaae019/7726402"><i class="fas fa-book-open"></i> Journal</a>
   </div>
   <details class="simple">
-    <summary>🤔➡️💡 <span class="chip">In plain words</span></summary>
+    <summary><i class="fas fa-lightbulb"></i> <span class="chip">In plain words</span></summary>
     <div class="body">Add a short, accessible takeaway…</div>
   </details>
 </div>
@@ -198,11 +192,11 @@ slug: research
     <a href="https://doi.org/10.1017/S0963548322000335">Fluctuations of Subgraph Counts in Graphon based Random Graphs</a>
   </div>
   <div class="meta">
-    <a href="https://www-stat.wharton.upenn.edu/~bhaswar/">Bhaswar B. Bhattacharya</a>, Anirban Chatterjee, <a href="https://www.katalog.uu.se/profile/?id=N94-1742">Svante Janson</a>. <em>Combinatorics, Probability and Computing</em>.
-    · <a class="icon-link" href="https://doi.org/10.1017/S0963548322000335"><span class="icon">📚</span>Journal</a>
+    <a href="https://www-stat.wharton.upenn.edu/~bhaswar/">Bhaswar B. Bhattacharya</a>, Anirban Chatterjee, <a href="https://www.katalog.uu.se/profile/?id=N94-1742">Svante Janson</a>. <em>Combinatorics, Probability and Computing</em>
+    · <a class="icon-link" href="https://doi.org/10.1017/S0963548322000335"><i class="fas fa-book-open"></i> Journal</a>
   </div>
   <details class="simple">
-    <summary>🤔➡️💡 <span class="chip">In plain words</span></summary>
+    <summary><i class="fas fa-lightbulb"></i> <span class="chip">In plain words</span></summary>
     <div class="body">Add a short, accessible takeaway…</div>
   </details>
 </div>
@@ -212,33 +206,31 @@ slug: research
     <a href="https://doi.org/10.1142/S2010326320500372">Spectral properties for the Laplacian of a generalized Wigner matrix</a>
   </div>
   <div class="meta">
-    Anirban Chatterjee, <a href="https://sites.google.com/site/rajatsubrahazra/">Rajat Subhra Hazra</a>. <em>Random Matrices: Theory and Applications</em>.
-    · <a class="icon-link" href="https://doi.org/10.1142/S2010326320500372"><span class="icon">📚</span>Journal</a>
+    Anirban Chatterjee, <a href="https://sites.google.com/site/rajatsubrahazra/">Rajat Subhra Hazra</a>. <em>Random Matrices: Theory and Applications</em>
+    · <a class="icon-link" href="https://doi.org/10.1142/S2010326320500372"><i class="fas fa-book-open"></i> Journal</a>
   </div>
   <details class="simple">
-    <summary>🤔➡️💡 <span class="chip">In plain words</span></summary>
+    <summary><i class="fas fa-lightbulb"></i> <span class="chip">In plain words</span></summary>
     <div class="body">Add a short, accessible takeaway…</div>
   </details>
 </div>
 
-<div class="color-subhead" data-color="amber">Conference Publications</div>
+<h2 class="pub-head">Conference Publications</h2>
 
 <div class="pub">
   <div class="title">
     <a href="https://proceedings.mlr.press/v238/chakraborty24a.html">PrIsing: Privacy-Preserving Peer Effect Estimation via Ising Model</a>
   </div>
   <div class="meta">
-    <a href="https://abhinavc3.github.io/">Abhinav Chakraborty</a>, Anirban Chatterjee, <a href="https://statistics.wharton.upenn.edu/profile/abdalal/">Abhinandan Dalal</a>. <em>International Conference on Artificial Intelligence and Statistics (AISTATS)</em>, 2024.
-    · <a class="icon-link" href="https://proceedings.mlr.press/v238/chakraborty24a.html"><span class="icon">📚</span>Proceedings</a>
-    <!-- Add a GitHub link if you want; e.g.:  · <a class="icon-link" href="https://github.com/USER/REPO"><span class="icon">💻</span>GitHub</a> -->
+    <a href="https://abhinavc3.github.io/publications/">Abhinav Chakraborty</a>, Anirban Chatterjee, <a href="https://statistics.wharton.upenn.edu/profile/abdalal/">Abhinandan Dalal</a>. <em>International Conference on Artificial Intelligence and Statistics (AISTATS)</em>, 2024
+    · <a class="icon-link" href="https://proceedings.mlr.press/v238/chakraborty24a.html"><i class="fas fa-book-open"></i> Proceedings</a>
+    <!-- Example: add code repo if applicable -->
+    <!-- · <a class="icon-link" href="https://github.com/USER/REPO"><i class="fab fa-github"></i> GitHub</a> -->
   </div>
   <details class="simple">
-    <summary>🤔➡️💡 <span class="chip">In plain words</span></summary>
+    <summary><i class="fas fa-lightbulb"></i> <span class="chip">In plain words</span></summary>
     <div class="body">Add a short, accessible takeaway…</div>
   </details>
 </div>
 
-<br/>
-
-<!-- Optional: horizontal rule or spacer -->
 <br/>
