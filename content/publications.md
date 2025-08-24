@@ -41,7 +41,8 @@ slug: research
   }
 </style>
 
-# New aspects # -->
+# New aspects # 
+-->
 
 <!-- Icons: Academicons (scholarly) + Font Awesome (GitHub only) -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
