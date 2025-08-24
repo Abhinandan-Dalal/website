@@ -60,31 +60,31 @@ hide_title: true
     <tbody>
         <tr>
             <td>Fall 2025</td>
-            <td><a href="/docs/course_syllabi/STAT9210.pdf">STAT 9210</a>: <strong>Observational Studies</strong> (for Graduate Students)</td>
+            <td><a href="/docs/course_syllabi/stat9210.pdf">STAT 9210</a>: <strong>Observational Studies</strong> (for Graduate Students)</td>
         </tr>
         <tr>
             <td>Spring 2025</td>
-            <td><a href="/docs/course_syllabi/STAT5330.pdf">STAT 5330</a>: <strong>Stochastic processes</strong> (for Undergraduate Students)</td>
+            <td><a href="/docs/course_syllabi/stat5330.pdf">STAT 5330</a>: <strong>Stochastic processes</strong> (for Undergraduate Students)</td>
         </tr>
         <tr>
             <td>Spring 2025</td>
-            <td><a href="/docs/course_syllabi/STAT1110.pdf">STAT 1110</a>: <strong>Introductory Statistics</strong> (for Undergraduate Students)</td>
+            <td><a href="/docs/course_syllabi/stat1110.pdf">STAT 1110</a>: <strong>Introductory Statistics</strong> (for Undergraduate Students)</td>
         </tr>
         <tr>
             <td>Fall 2024</td>
-            <td><a href="/docs/course_syllabi/STAT4320.pdf">STAT 4320</a>: <strong>Mathematical Statistics</strong> (for Undergraduate Students)</td>
+            <td><a href="/docs/course_syllabi/stat4320.pdf">STAT 4320</a>: <strong>Mathematical Statistics</strong> (for Undergraduate Students)</td>
         </tr>
         <tr>
             <td>Fall 2023</td>
-            <td><a href="/docs/course_syllabi/STAT4300.pdf">STAT 4300</a> & <a href="/docs/course_syllabi/STAT5100.pdf">STAT 5100</a>: <strong>Probability</strong> (for Undergraduate/Graduate Students)</td>
+            <td><a href="/docs/course_syllabi/STAT4300.pdf">STAT 4300</a> & <a href="/docs/course_syllabi/stat5100.pdf">STAT 5100</a>: <strong>Probability</strong> (for Undergraduate/Graduate Students)</td>
         </tr>
         <tr>
             <td>Spring 2023</td>
-            <td><a href="/docs/course_syllabi/STAT9700.pdf">STAT 9700</a>: <strong>Mathematical Statistics</strong> (for Graduate Students)</td>
+            <td><a href="/docs/course_syllabi/stat9700.pdf">STAT 9700</a>: <strong>Mathematical Statistics</strong> (for Graduate Students)</td>
         </tr>
         <tr>
             <td>Spring 2022</td>
-            <td><a href="/docs/course_syllabi/STAT521.pdf">STAT 521</a>: <strong>Applied Econometrics II</strong> (for Graduate Students)</td>
+            <td><a href="/docs/course_syllabi/stat521.pdf">STAT 521</a>: <strong>Applied Econometrics II</strong> (for Graduate Students)</td>
         </tr>
     </tbody>
 </table>
