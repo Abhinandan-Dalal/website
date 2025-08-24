@@ -3,8 +3,6 @@ title: "Pedagogy"
 hide_title: true
 ---
 
-# Teaching Assistant at Penn
-
 <style>
     :root {
         --olive-color: rgb(102, 153, 51); /* Define a CSS variable for the olive color */
@@ -53,6 +51,7 @@ hide_title: true
     }
 </style>
 
+<h2 style="color: #556B2F;">Teaching Assistantships at Penn</h2>
 <table class="ta-table">
     <tbody>
         <tr>
@@ -93,7 +92,7 @@ hide_title: true
     <tbody>
         <tr>
             <td>Spring 2025</td>
-            <td><strong><a href="https://sites.google.com/view/wharton-drp/">Wharton Directed Reading Program (WDRP)</a></strong> mentor for <em>Sheyan Lalmohammed</em></td>
+            <td><a href="https://sites.google.com/view/wharton-drp/"><strong>Wharton Directed Reading Program (WDRP)</strong></a> mentor for <em>Sheyan Lalmohammed</em></td>
         </tr>
         <tr>
             <td>Fall 2024</td>
@@ -101,14 +100,15 @@ hide_title: true
         </tr>
         <tr>
             <td>Spring 2024</td>
-            <td><strong><a href="https://sites.google.com/view/urps-penn">Undergraduate Research in Probability and Statistics (URPS)</a></strong> mentor for <em>Roberto Ligeralde</em>, with Da Wu</td>
+            <td><a href="https://sites.google.com/view/urps-penn"><strong>Undergraduate Research in Probability and Statistics (URPS)</strong></a> mentor for <em>Roberto Ligeralde</em>, with Da Wu</td>
         </tr>
         <tr>
             <td>Spring 2022</td>
-            <td><strong><a href="https://sites.google.com/view/urps-penn">Undergraduate Research in Probability and Statistics (URPS)</a></strong> mentor for <em>Ryan Jeong</em> and <em>Alexandru Lopotenco</em>, with Prof. Robin Pemantle</td>
+            <td><a href="https://sites.google.com/view/urps-penn"><strong>Undergraduate Research in Probability and Statistics (URPS)</strong></a> mentor for <em>Ryan Jeong</em> and <em>Alexandru Lopotenco</em>, with Prof. Robin Pemantle</td>
         </tr>
     </tbody>
 </table>
+
 
 
 <!-- Add a style tag with CSS to control the layout -->
