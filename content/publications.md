@@ -4,34 +4,6 @@ hide_title: true
 slug: research
 ---
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
-
-# Preprints
-
-<span style="font-size: 0.9em; font-weight: bold;">*[_A Kernel-Based Conditional Two-Sample Test Using Nearest Neighbors (with Applications to Calibration, Regression Curves, and Simulation-Based Inference)._](https://arxiv.org/abs/2407.16550)* [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2407.16550) &nbsp; [<i class="fab fa-github"></i>](https://github.com/anirbanc96/ECMMD-CondTwoSamp)</span>  
-<span style="font-size: 0.8em;">Anirban Chatterjee, [Ziang Niu](https://ziangniu6.github.io/), [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html).</span>
-
-<span style="font-size: 0.9em; font-weight: bold;">*[_Higher-Order Graphon Theory: Fluctuations, Degeneracies, and Inference._](https://arxiv.org/abs/2404.13822)* [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2404.13822)</span>     
-<span style="font-size: 0.8em;">Anirban Chatterjee, [Soham Dan](https://sdan2.github.io/), [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html).</span>
-
-
-<span style="font-size: 0.9em; font-weight: bold;">*[_Fluctuation of the Largest Eigenvalue of a Kernel Matrix with application in Graphon-based Random Graphs._](https://arxiv.org/abs/2401.01866)* [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2401.01866)</span>     
-<span style="font-size: 0.8em;">Anirban Chatterjee, [Jiaoyang Huang](https://jiaoyang.github.io/).</span>
-
-# Journal Publications
-
-<span style="font-size: 0.9em; font-weight: bold;">*[_Boosting the Power of Kernel Two-Sample Tests._](https://doi.org/10.1093/biomet/asae048)* [<i class="fa-solid fa-book"></i>](https://doi.org/10.1093/biomet/asae048) &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2302.10687) &nbsp; [<i class="fab fa-github"></i>](https://github.com/anirbanc96/MMMD-boost-kernel-two-sample)</span>     
-<span style="font-size: 0.8em;">Anirban Chatterjee, [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html). *Biometrika*.</span>
-
-<span style="font-size: 0.9em; font-weight: bold;">*[_Detecting Planted Partition in Sparse Multi-Layer Networks._](https://academic.oup.com/imaiai/article/13/3/iaae019/7726402)* [<i class="fa-solid fa-book"></i>](https://academic.oup.com/imaiai/article/13/3/iaae019/7726402) &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2209.07554) &nbsp; [<i class="fab fa-github"></i>](https://github.com/anirbanc96/Sparse-MCSBM)</span>     
-<span style="font-size: 0.8em;">Anirban Chatterjee, [Sagnik Nandy](https://sagnik-nandy.github.io/), [Ritwik Sadhu](https://scholar.google.co.in/citations?user=6TI7KmgAAAAJ&hl=en). *Information and Inference: A Journal of the IMA*.</span>
-
-<span style="font-size: 0.9em; font-weight: bold;">*[_Fluctuations of Subgraph Counts in Graphon based Random Graphs._](https://doi.org/10.1017/S0963548322000335)* [<i class="fa-solid fa-book"></i>](https://doi.org/10.1017/S0963548322000335) &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2104.07259)</span>     
-<span style="font-size: 0.8em;">[Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html), Anirban Chatterjee, [Svante Janson](https://www.katalog.uu.se/profile/?id=XX2949). *Combinatorics, Probability and Computing*.</span>
-
-<span style="font-size: 0.9em; font-weight: bold;">*[_Spectral properties for the Laplacian of a generalized Wigner matrix._](https://doi.org/10.1142/S2010326322500265)* [<i class="fa-solid fa-book"></i>](https://doi.org/10.1142/S2010326322500265) &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2011.07912)</span>     
-<span style="font-size: 0.8em;">Anirban Chatterjee, [Rajat Subhra Hazra](https://sites.google.com/site/rshazra/). *Random Matrices: Theory and Applications*.</span>
-
 # Conference Publications
  
 <span style="font-size: 0.9em; font-weight: bold;">*[_PrIsing: Privacy-Preserving Peer Effect Estimation via Ising Model._](https://proceedings.mlr.press/v238/chakraborty24a.html)* [<i class="fa-solid fa-book"></i>](https://proceedings.mlr.press/v238/chakraborty24a.html) &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2401.16596) &nbsp; [<i class="fab fa-github"></i>](https://github.com/anirbanc96/PrIsing)</span>     
@@ -103,7 +75,7 @@ title: "Publications"
 <div class="pub">
   <div class="title">
     <span style="font-size: 0.9em; font-weight: bold;">
-      <em><a href="https://arxiv.org/abs/2407.16550">A Kernel-Based Conditional Two-Sample Test Using Nearest Neighbors (with Applications to Calibration, Regression Curves, and Simulation-Based Inference)</a></em>
+      <strong> A Kernel-Based Conditional Two-Sample Test Using Nearest Neighbors (with Applications to Calibration, Regression Curves, and Simulation-Based Inference) </strong>
       <a href="https://arxiv.org/abs/2407.16550" aria-label="arXiv">
         <i class="ai ai-arxiv ai"></i>
       </a>
@@ -119,122 +91,3 @@ title: "Publications"
   </details>
 </div>
 
-<div class="pub">
-  <div class="title">
-    <span style="font-size: 0.9em; font-weight: bold;">
-      <em><a href="https://arxiv.org/abs/2404.13822">Higher-Order Graphon Theory: Fluctuations, Degeneracies, and Inference</a></em>
-      <a href="https://arxiv.org/abs/2404.13822" aria-label="arXiv">
-        <i class="ai ai-arxiv ai"></i>
-      </a>
-    </span>
-  </div>
-  <div class="meta">Anirban Chatterjee, Soham Dan, Bhaswar B. Bhattacharya</div>
-  <details class="simple">
-    <summary><i class="ai ai-open-access ai"></i> In plain words</summary>
-    <div class="body">Add your plain-language summary here…</div>
-  </details>
-</div>
-
-<div class="pub">
-  <div class="title">
-    <span style="font-size: 0.9em; font-weight: bold;">
-      <em><a href="https://arxiv.org/abs/2401.01866">Fluctuation of the Largest Eigenvalue of a Kernel Matrix with application in Graphon-based Random Graphs</a></em>
-      <a href="https://arxiv.org/abs/2401.01866" aria-label="arXiv">
-        <i class="ai ai-arxiv ai"></i>
-      </a>
-    </span>
-  </div>
-  <div class="meta">Anirban Chatterjee, Jiaoyang Huang</div>
-  <details class="simple">
-    <summary><i class="ai ai-open-access ai"></i> In plain words</summary>
-    <div class="body">Add your plain-language summary here…</div>
-  </details>
-</div>
-
-<h2 style="color: #556B2F;">Journal Publications</h2>
-
-<div class="pub">
-  <div class="title">
-    <span style="font-size: 0.9em; font-weight: bold;">
-      <em><a href="https://doi.org/10.1093/biomet/asae048">Boosting the Power of Kernel Two-Sample Tests</a></em>
-      <a href="https://doi.org/10.1093/biomet/asae048" aria-label="Publisher / Journal">
-        <i class="ai ai-publisher ai"></i>
-      </a>
-    </span>
-  </div>
-  <div class="meta">Anirban Chatterjee, Bhaswar B. Bhattacharya. <em>Biometrika</em></div>
-  <details class="simple">
-    <summary><i class="ai ai-open-access ai"></i> In plain words</summary>
-    <div class="body">Add a short, accessible takeaway…</div>
-  </details>
-</div>
-
-<div class="pub">
-  <div class="title">
-    <span style="font-size: 0.9em; font-weight: bold;">
-      <em><a href="https://academic.oup.com/imaiai/article-abstract/13/3/iaae019/7726402">Detecting Planted Partition in Sparse Multi-Layer Networks</a></em>
-      <a href="https://academic.oup.com/imaiai/article-abstract/13/3/iaae019/7726402" aria-label="Publisher / Journal">
-        <i class="ai ai-publisher ai"></i>
-      </a>
-    </span>
-  </div>
-  <div class="meta">Anirban Chatterjee, Sagnik Nandy, Ritwik Sadhu. <em>Information and Inference</em></div>
-  <details class="simple">
-    <summary><i class="ai ai-open-access ai"></i> In plain words</summary>
-    <div class="body">Add a short, accessible takeaway…</div>
-  </details>
-</div>
-
-<div class="pub">
-  <div class="title">
-    <span style="font-size: 0.9em; font-weight: bold;">
-      <em><a href="https://doi.org/10.1017/S0963548322000335">Fluctuations of Subgraph Counts in Graphon based Random Graphs</a></em>
-      <a href="https://doi.org/10.1017/S0963548322000335" aria-label="Publisher / Journal">
-        <i class="ai ai-publisher ai"></i>
-      </a>
-    </span>
-  </div>
-  <div class="meta">Bhaswar B. Bhattacharya, Anirban Chatterjee, Svante Janson. <em>Combinatorics, Probability and Computing</em></div>
-  <details class="simple">
-    <summary><i class="ai ai-open-access ai"></i> In plain words</summary>
-    <div class="body">Add a short, accessible takeaway…</div>
-  </details>
-</div>
-
-<div class="pub">
-  <div class="title">
-    <span style="font-size: 0.9em; font-weight: bold;">
-      <em><a href="https://doi.org/10.1142/S2010326320500372">Spectral properties for the Laplacian of a generalized Wigner matrix</a></em>
-      <a href="https://doi.org/10.1142/S2010326320500372" aria-label="Publisher / Journal">
-        <i class="ai ai-publisher ai"></i>
-      </a>
-    </span>
-  </div>
-  <div class="meta">Anirban Chatterjee, Rajat Subhra Hazra. <em>Random Matrices: Theory and Applications</em></div>
-  <details class="simple">
-    <summary><i class="ai ai-open-access ai"></i> In plain words</summary>
-    <div class="body">Add a short, accessible takeaway…</div>
-  </details>
-</div>
-
-<h2 style="color: #556B2F;">Conference Publications</h2>
-
-<div class="pub">
-  <div class="title">
-    <span style="font-size: 0.9em; font-weight: bold;">
-      <em><a href="https://proceedings.mlr.press/v238/chakraborty24a.html">PrIsing: Privacy-Preserving Peer Effect Estimation via Ising Model</a></em>
-      <a href="https://proceedings.mlr.press/v238/chakraborty24a.html" aria-label="Proceedings / Publisher">
-        <i class="ai ai-publisher ai"></i>
-      </a>
-      <!-- Optional GitHub repo link -->
-      <!-- <a href="https://github.com/USER/REPO" aria-label="GitHub repository"><i class="fab fa-github"></i></a> -->
-    </span>
-  </div>
-  <div class="meta">Abhinav Chakraborty, Anirban Chatterjee, Abhinandan Dalal. <em>AISTATS</em>, 2024</div>
-  <details class="simple">
-    <summary><i class="ai ai-open-access ai"></i> In plain words</summary>
-    <div class="body">Add a short, accessible takeaway…</div>
-  </details>
-</div>
-
-<br/>
