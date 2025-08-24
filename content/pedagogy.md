@@ -32,9 +32,9 @@ hide_title: true
         padding-right: 20px; /* Add some space between the columns */
         white-space: nowrap; /* Prevent the text from wrapping */
     }
-    .ta-table td:last-child {
+/*     .ta-table td:last-child {
         white-space: nowrap;
-    }
+    } */
     
 /*     /* Add a border to the bottom of each row for separation */
     .ta-table tr:not(:last-child) {
@@ -73,7 +73,11 @@ My teaching assistantships have provided me with the opportunity to guide both u
         </tr>
         <tr>
             <td>Fall 2023</td>
-            <td><a href="/docs/course_syllabi/STAT4300.pdf">STAT 4300</a> & <a href="/docs/course_syllabi/stat5100.pdf">STAT 5100</a>: <strong>Probability</strong> (for Undergraduate/Graduate Students)</td>
+            <td><a href="/docs/course_syllabi/stat5100.pdf">STAT 5100</a>: <strong>Probability</strong> (for Graduate Students)</td>
+        </tr>
+        <tr>
+            <td>Fall 2023</td>
+            <td><a href="/docs/course_syllabi/STAT4300.pdf">STAT 4300</a>: <strong>Probability</strong> (for Undergraduate Students)</td>
         </tr>
         <tr>
             <td>Spring 2023</td>
