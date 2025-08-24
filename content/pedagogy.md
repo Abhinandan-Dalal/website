@@ -96,15 +96,15 @@ hide_title: true
         </tr>
         <tr>
             <td>Fall 2024</td>
-            <td><strong>PhD Peer program</strong> mentor for incoming PhD student <em>Soham Mallick</em> to navigate the program and transition to Penn</td>
+            <td><strong>PhD Peer program</strong> mentor for incoming PhD student</td>
         </tr>
         <tr>
             <td>Spring 2024</td>
-            <td><strong>Undergraduate Research in Probability and Statistics</strong> (<a href="https://sites.google.com/view/urps-penn">URPS</a>) mentor for <em>Roberto Ligeralde</em>, with Da Wu</td>
+            <td><strong>Undergraduate Research in Probability and Statistics</strong> (<a href="https://sites.google.com/view/urps-penn">URPS</a>) mentor, Instructor: Da Wu</td>
         </tr>
         <tr>
             <td>Spring 2022</td>
-            <td><strong>Undergraduate Research in Probability and Statistics</strong> (<a href="https://sites.google.com/view/urps-penn">URPS</a>) mentor for <em>Ryan Jeong</em> and <em>Alexandru Lopotenco</em>, with Prof. Robin Pemantle</td>
+            <td><strong>Undergraduate Research in Probability and Statistics</strong> (<a href="https://sites.google.com/view/urps-penn">URPS</a>) mentor, Instructor: Prof. Robin Pemantle</td>
         </tr>
     </tbody>
 </table>
