@@ -52,6 +52,7 @@ hide_title: true
 </style>
 
 <h2 style="color: #556B2F;">Teaching Assistantships at Penn</h2>
+My teaching assistantships have provided me with the opportunity to guide both undergraduate and graduate students in their academic pursuits.
 <table class="ta-table">
     <tbody>
         <tr>
@@ -88,23 +89,24 @@ hide_title: true
 
 
 <h2 style="color: #556B2F;">Mentoring Experience</h2>
+I am committed to helping students grow in their academic and professional journeys. Here is a selection of my mentoring experiences.
 <table class="ta-table">
     <tbody>
         <tr>
             <td>Spring 2025</td>
-            <td><strong>Wharton Directed Reading Program</strong> (<a href="https://sites.google.com/view/wharton-drp/">WDRP</a>) mentor for <em>Sheyan Lalmohammed</em></td>
+            <td><strong>Wharton Directed Reading Program</strong> (<a href="https://sites.google.com/view/wharton-drp/">WDRP</a>) </td>
         </tr>
         <tr>
             <td>Fall 2024</td>
-            <td><strong>PhD Peer program</strong> mentor for incoming PhD student</td>
+            <td><strong>PhD Peer program</strong> </td>
         </tr>
         <tr>
             <td>Spring 2024</td>
-            <td><strong>Undergraduate Research in Probability and Statistics</strong> (<a href="https://sites.google.com/view/urps-penn">URPS</a>) mentor, Instructor: Da Wu</td>
+            <td><strong>Undergraduate Research in Probability and Statistics</strong> (<a href="https://sites.google.com/view/urps-penn">URPS</a>) </td>
         </tr>
         <tr>
             <td>Spring 2022</td>
-            <td><strong>Undergraduate Research in Probability and Statistics</strong> (<a href="https://sites.google.com/view/urps-penn">URPS</a>) mentor, Instructor: Prof. Robin Pemantle</td>
+            <td><strong>Undergraduate Research in Probability and Statistics</strong> (<a href="https://sites.google.com/view/urps-penn">URPS</a>) </td>
         </tr>
     </tbody>
 </table>
