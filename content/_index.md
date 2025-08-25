@@ -49,7 +49,7 @@ sitemap:
     <p>
       I have spent two summers at <a href = "https://www.amazon.science/" target="_blank">Amazon</a>: in 2023, I developed anytime-valid DML for causal inference, and in 2024, I used 
       <span style="color: var(--olive-color);"><strong>proximal causal inference</strong></span> 
-      to design better loss functions for regional demand forecasting. My current research and publications can be found <a href="/publications/">here</a>.
+      to design better loss functions for regional demand forecasting. My current research and publications can be found <a href="/research/">here</a>.
     </p>
     <p>
       When I’m not tangled up in causal riddles, you can find me curled up with a good book, experimenting in the kitchen, or hunched over a game of chess.
