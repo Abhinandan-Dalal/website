@@ -46,7 +46,7 @@ title:
     line-height: 1.35;
     color: #444;
     margin: .4rem 0 .2rem 1.4rem;
-    max-width: 90%;
+    max-width: 85%;
   }
 
   .content-container { display: flex; align-items: flex-start; }
