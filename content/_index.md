@@ -44,12 +44,12 @@ sitemap:
       <span style="color: var(--olive-color);"><strong>anytime-valid inference</strong></span>,
       <span style="color: var(--olive-color);"><strong>differential privacy</strong></span>,
       <span style="color: var(--olive-color);"><strong>selective inference</strong></span>,
-      and <span style="color: var(--olive-color);"><strong>inference with strategic agents</strong></span>.
+      and inference with <span style="color: var(--olive-color);"><strong>strategic agents</strong></span>. 
     </p>
     <p>
-      I have spent two summers at Amazon: in 2023, I developed anytime-valid DML for causal inference, and in 2024, I used 
+      I have spent two summers at <a href = "https://www.amazon.science/" target="_blank">Amazon</a>: in 2023, I developed anytime-valid DML for causal inference, and in 2024, I used 
       <span style="color: var(--olive-color);"><strong>proximal causal inference</strong></span> 
-      to design better loss functions for regional demand forecasting.
+      to design better loss functions for regional demand forecasting. My current research and publications can be found 
     </p>
     <p>
       When I’m not tangled up in causal riddles, you can find me curled up with a good book, experimenting in the kitchen, or hunched over a game of chess.
