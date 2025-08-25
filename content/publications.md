@@ -99,6 +99,19 @@ slug: research
    margin: .4rem 0 .2rem 1.4rem; 
    max-width: 68ch;
  }
+
+ /* Responsive design for smaller screens */
+  @media (max-width: 768px) {
+    .side-image {
+      max-width: 100%;
+      margin-left: 0;
+      margin-bottom: 20px;
+    }
+
+    .content-container {
+      flex-direction: column;
+    }
+  }
  
 </style>
 
@@ -109,7 +122,7 @@ slug: research
 <div class="pub">
   <div class="title">
     <span style="font-weight: bold;">
-      <strong> PrIsing: Privacy-Preserving Peer Effect Estimation via Ising Model </strong>
+      <strong> PrIsing: Privacy-Preserving Peer Effect Estimation via Ising Model. </strong>
       <a href="https://proceedings.mlr.press/v238/chakraborty24a.html" aria-label="Proceedings of Machine Learning Research">
         <i class="fa-solid fa-book"></i>
       </a>
@@ -149,7 +162,7 @@ slug: research
       </a> -->
     </span>
   </div>
-  <div class="meta">Abhinandan Dalal and <a href = "https://statistics.wharton.upenn.edu/profile/ett/">Eric J. Tchetgen Tchetgen </a>. </div>
+  <div class="meta">Abhinandan Dalal and <a href = "https://statistics.wharton.upenn.edu/profile/ett/">Eric J. Tchetgen Tchetgen</a>. </div>
   <details class="simple">
     <summary><i class="ai ai-open-access ai"></i> In plain words </summary>
     <div class="body">Add your short, friendly summary here.</div>
@@ -170,7 +183,7 @@ slug: research
   </div>
   <div class="meta">Abhinandan Dalal, 
    <a href = "https://www.amazon.science/author/patrick-bloebaum">Patrick Bl&ouml;baum </a>, <a href = "https://www.shivakasiviswanathan.com/">Shiva Kasiviswanathan </a> and 
-   <a href = "https://www.stat.cmu.edu/~aramdas/">Aaditya Ramdas </a>. </div>
+   <a href = "https://www.stat.cmu.edu/~aramdas/">Aaditya Ramdas</a>. </div>
   <details class="simple">
     <summary><i class="ai ai-open-access ai"></i> In plain words </summary>
     <div class="body">Add your short, friendly summary here.</div>
@@ -193,8 +206,8 @@ slug: research
    <a href = "https://willbekerman.github.io/research/">William Bekerman</a>*, 
    Abhinandan Dalal*,
    <a href = "https://blogs.worldbank.org/en/team/c/carlo-del-ninno">Carlo del Ninno </a> and 
-   <a href = "https://statistics.wharton.upenn.edu/profile/dsmall/">Dylan S Small </a>.  
-   Major revision at <em>Biometrika</em>
+   <a href = "https://statistics.wharton.upenn.edu/profile/dsmall/">Dylan S Small</a>.  
+   Major revision at <em>Biometrika</em>.
   </div>
   <details class="simple">
     <summary><i class="ai ai-open-access ai"></i> In plain words </summary>
