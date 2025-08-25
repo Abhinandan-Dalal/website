@@ -240,4 +240,28 @@ slug: research
   </details>
 </div>
 
+<div class="pub">
+  <div class="title">
+    <span style="font-weight: bold;">
+      <strong>  PFinding Optimal Cancer Treatment using Markov Decision Process to Improve Overall Health and Quality of Life.   </strong>
+      <a href="https://arxiv.org/abs/2011.13960" aria-label="arXiv">
+        <i class="ai ai-arxiv ai"></i>
+      </a>
+<!--       <a href="https://github.com/anirbanc96/ECMMD-CondTwoSamp" aria-label="GitHub repository">
+        <i class="fab fa-github"></i>
+      </a> -->
+    </span>
+  </div>
+  <div class="meta">
+   <a href = "https://www.linkedin.com/in/navonil-deb-06939b1b4/">Navonil Deb</a>*, 
+   Abhinandan Dalal*, and 
+   <a href = "https://isi.irins.org/profile/111458">Gopal K. Basak </a>.  
+   Major revision at <em>Biometrika</em>.
+  </div>
+  <details class="simple">
+    <summary><i class="ai ai-open-access ai"></i> In plain words </summary>
+    <div class="body">Add your short, friendly summary here.</div>
+  </details>
+</div>
+
 
