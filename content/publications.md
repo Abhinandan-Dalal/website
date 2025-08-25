@@ -110,8 +110,11 @@ slug: research
   <div class="title">
     <span style="font-weight: bold;">
       <strong> PrIsing: Privacy-Preserving Peer Effect Estimation via Ising Model </strong>
+      <a href="https://proceedings.mlr.press/v238/chakraborty24a.html" aria-label="Proceedings of Machine Learning Research">
+        <i class="fa-solid fa-book"></i>
+      </a>
       <a href="https://arxiv.org/abs/2401.16596" aria-label="arXiv">
-        <i class="ai ai-arxiv ai"></i>
+         <i class="ai ai-arxiv ai"></i>
       </a>
 <!--       <a href="https://github.com/anirbanc96/ECMMD-CondTwoSamp" aria-label="GitHub repository">
         <i class="fab fa-github"></i>
