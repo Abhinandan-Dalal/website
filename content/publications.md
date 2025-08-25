@@ -311,4 +311,9 @@ slug: research
   </details>
 </div>
 
+<p style="font-size:1em;">
+  Some of my older unpublished research can be found in
+  <a href="/reports/">Technical Reports</a>.
+</p>
+
 
