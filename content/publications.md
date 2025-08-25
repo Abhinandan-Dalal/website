@@ -141,7 +141,7 @@ slug: research
    <em> International Conference on Artificial Intelligence and Statistics 2024. </em>
    </div>
   <details class="simple">
-    <summary><i class="ai ai-open-access ai"></i> In plain words </summary>
+    <summary><i class="ai ai-open-access ai"></i> Simply put </summary>
     <div class="body">Add your short, friendly summary here.</div>
   </details>
 </div>
@@ -164,7 +164,7 @@ slug: research
   </div>
   <div class="meta">Abhinandan Dalal and <a href = "https://statistics.wharton.upenn.edu/profile/ett/">Eric J. Tchetgen Tchetgen</a>. </div>
   <details class="simple">
-    <summary><i class="ai ai-open-access ai"></i> In plain words </summary>
+    <summary><i class="ai ai-open-access ai"></i> Simply put </summary>
     <div class="body">Add your short, friendly summary here.</div>
   </details>
 </div>
@@ -185,7 +185,7 @@ slug: research
    <a href = "https://www.amazon.science/author/patrick-bloebaum">Patrick Bl&ouml;baum </a>, <a href = "https://www.shivakasiviswanathan.com/">Shiva Kasiviswanathan </a> and 
    <a href = "https://www.stat.cmu.edu/~aramdas/">Aaditya Ramdas</a>. </div>
   <details class="simple">
-    <summary><i class="ai ai-open-access ai"></i> In plain words </summary>
+    <summary><i class="ai ai-open-access ai"></i> Simply put </summary>
     <div class="body">Add your short, friendly summary here.</div>
   </details>
 </div>
@@ -210,7 +210,7 @@ slug: research
    Major revision at <em>Biometrika</em>.
   </div>
   <details class="simple">
-    <summary><i class="ai ai-open-access ai"></i> In plain words </summary>
+    <summary><i class="ai ai-open-access ai"></i> Simply put </summary>
     <div class="body">Add your short, friendly summary here.</div>
   </details>
 </div>
@@ -235,7 +235,7 @@ slug: research
    <a href = "https://soumendu041.gitlab.io/">Soumendu Sundar Mukherjee</a>.  
   </div>
   <details class="simple">
-    <summary><i class="ai ai-open-access ai"></i> In plain words </summary>
+    <summary><i class="ai ai-open-access ai"></i> Simply put </summary>
     <div class="body">Add your short, friendly summary here.</div>
   </details>
 </div>
@@ -243,7 +243,7 @@ slug: research
 <div class="pub">
   <div class="title">
     <span style="font-weight: bold;">
-      <strong>  PFinding Optimal Cancer Treatment using Markov Decision Process to Improve Overall Health and Quality of Life.   </strong>
+      <strong>  Finding Optimal Cancer Treatment using Markov Decision Process to Improve Overall Health and Quality of Life.   </strong>
       <a href="https://arxiv.org/abs/2011.13960" aria-label="arXiv">
         <i class="ai ai-arxiv ai"></i>
       </a>
@@ -256,10 +256,55 @@ slug: research
    <a href = "https://www.linkedin.com/in/navonil-deb-06939b1b4/">Navonil Deb</a>*, 
    Abhinandan Dalal*, and 
    <a href = "https://isi.irins.org/profile/111458">Gopal K. Basak </a>.  
-   Major revision at <em>Biometrika</em>.
   </div>
   <details class="simple">
-    <summary><i class="ai ai-open-access ai"></i> In plain words </summary>
+    <summary><i class="ai ai-open-access ai"></i> Simply put </summary>
+    <div class="body">Add your short, friendly summary here.</div>
+  </details>
+</div>
+
+<div class="pub">
+  <div class="title">
+    <span style="font-weight: bold;">
+      <strong>  Accelerography: Feasibility of Gesture Typing using Accelerometer.   </strong>
+      <a href="https://arxiv.org/abs/2003.14310" aria-label="arXiv">
+        <i class="ai ai-arxiv ai"></i>
+      </a>
+<!--       <a href="https://github.com/anirbanc96/ECMMD-CondTwoSamp" aria-label="GitHub repository">
+        <i class="fab fa-github"></i>
+      </a> -->
+    </span>
+  </div>
+  <div class="meta">
+   <a href = "https://ieor.columbia.edu/content/arindam-roy-chowdhury">Arindam Roy Chowdhury</a>*, 
+   Abhinandan Dalal*, and 
+   <a href = "https://statistics.sciences.ncsu.edu/people/ssen8/">Shubhajit Sen</a>.  
+  </div>
+  <details class="simple">
+    <summary><i class="ai ai-open-access ai"></i> Simply put </summary>
+    <div class="body">Add your short, friendly summary here.</div>
+  </details>
+</div>
+
+<div class="pub">
+  <div class="title">
+    <span style="font-weight: bold;">
+      <strong>  Feasibility of Transparent Price Discovery in Tea through Auction in India.  </strong>
+      <a href="https://www.mcxindia.com/docs/default-source/about-us/commodity-insights-yearbook/2019/02-emerging-trends/feasibility-of-transparent-price-discovery-in-tea-through-auction-in-india-dr-diganta-mukherjee-mr-abhinandan-dalal-and-mr-subhrajyoty-roy.pdf?sfvrsn=ab5bb390_2">
+        <i class="fa-solid fa-book"></i>
+      </a>
+<!--       <a href="https://github.com/anirbanc96/ECMMD-CondTwoSamp" aria-label="GitHub repository">
+        <i class="fab fa-github"></i>
+      </a> -->
+    </span>
+  </div>
+  <div class="meta">
+   <a href = "https://isi.irins.org/profile/111450">Diganta Mukherjee</a>, 
+   Abhinandan Dalal, and 
+   <a href = "https://www.statwizard.in/">Subhrajyoty Roy</a>.  
+  </div>
+  <details class="simple">
+    <summary><i class="ai ai-open-access ai"></i> Simply put </summary>
     <div class="body">Add your short, friendly summary here.</div>
   </details>
 </div>
