@@ -102,6 +102,8 @@ slug: research
  
 </style>
 
+(* denotes equal contribution)
+
 <h2 style="color: #556B2F;">Preprints</h2>
 
 <div class="pub">
@@ -160,7 +162,7 @@ slug: research
    <a href = "https://willbekerman.github.io/research/">William Bekerman* </a>, 
    Abhinandan Dalal*,
    <a href = "https://blogs.worldbank.org/en/team/c/carlo-del-ninno">Carlo del Ninno </a> and 
-   <a href = "https://statistics.wharton.upenn.edu/profile/dsmall/">Dylan S Small </a> 
+   <a href = "https://statistics.wharton.upenn.edu/profile/dsmall/">Dylan S Small </a>.  
    Major revision at <i>Biometrika</i>
   </div>
   <details class="simple">
