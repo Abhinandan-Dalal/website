@@ -116,7 +116,7 @@ slug: research
       </a> -->
     </span>
   </div>
-  <div class="meta">Abhinandan Dalal and [Eric J. Tchetgen Tchetgen](https://statistics.wharton.upenn.edu/profile/ett/)</div>
+  <div class="meta">Abhinandan Dalal and <a href = "https://statistics.wharton.upenn.edu/profile/ett/">Eric J. Tchetgen Tchetgen </a> </div>
   <details class="simple">
     <summary><i class="ai ai-open-access ai"></i> In plain words </summary>
     <div class="body">Add your short, friendly summary here.</div>
