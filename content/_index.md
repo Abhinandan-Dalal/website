@@ -12,7 +12,7 @@ sitemap:
   }
   /* This new rule reduces the spacing between list items */
   li {
-    margin-bottom: 0.25em; /* Adjust this value to change the spacing */
+    margin-bottom: 0em; /* Adjust this value to change the spacing */
     color: var(--olive-color); /* This makes the bullets olive */
   }
 </style>
@@ -35,19 +35,19 @@ sitemap:
     </p>
     <ul>
       <li><span style="color: var(--olive-color);"><strong>Sensitivity analysis to unmeasured confounding</strong></span></li>
-      <li><span style="color: var(--olive-color); font-weight:600;">Double-debiased machine learning (DML)</span></li>
-      <li><span style="color: var(--olive-color); font-weight:600;">Causal inference under network interference</span></li>
-      <li><span style="color: var(--olive-color); font-weight:600;">Heterogeneity of treatment effects</span></li>
+      <li><span style="color: var(--olive-color);"><strong>Double-debiased machine learning (DML)</strong></span></li>
+      <li><span style="color: var(--olive-color);"><strong>Causal inference under network interference<strong></span></li>
+      <li><span style="color: var(--olive-color);"><strong>Heterogeneity of treatment effects</strong></span></li>
     </ul>
     <p>
       Beyond causal inference, I am also interested in
-      <span style="color: var(--olive-color); font-weight:600;">anytime-valid inference</span>,
-      <span style="color: var(--olive-color); font-weight:600;">differential privacy</span>,
-      <span style="color: var(--olive-color); font-weight:600;">selective inference</span>,
-      and <span style="color: var(--olive-color); font-weight:600;">inference with strategic agents</span>.
+      <span style="color: var(--olive-color);"><strong>anytime-valid inference</strong></span>,
+      <span style="color: var(--olive-color);"><strong>differential privacy<strong></span>,
+      <span style="color: var(--olive-color);"><strong>selective inference</strong></span>,
+      and <span style="color: var(--olive-color);"><strong>inference with strategic agents</strong></span>.
     </p>
     <p>
-      I have spent two summers at Amazon: in 2023, I developed anytime-valid DML for causal inference, and in 2024, I used proximal causal inference to design better loss functions for regional demand forecasting.
+      I have spent two summers at Amazon: in 2023, I developed anytime-valid DML for causal inference, and in 2024, I used <span style="color: var(--olive-color);"><strong>proximal causal inference</strong></span> to design better loss functions for regional demand forecasting.
     </p>
     <p>
       When I’m not tangled up in causal riddles, you can find me curled up with a good book, experimenting in the kitchen, or hunched over a game of chess.
