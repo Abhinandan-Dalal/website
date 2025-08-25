@@ -59,6 +59,17 @@ slug: research
      color: var(--olive-color);
    }
 
+  .badge {
+  display: inline-block;
+  font-size: 0.75em;
+  font-weight: 600;
+  color: #fff;
+  background-color: #c0392b; /* red */
+  padding: 0.15em 0.5em;
+  border-radius: 0.35em;
+  margin-left: 0.5rem;
+}
+ 
 /*   details.simple { margin: .3rem 0 0 .1rem; }
   details.simple > summary {
     cursor: pointer; list-style: none; display: inline-flex; align-items: center; gap: .4rem; font-weight: 600;
@@ -141,6 +152,28 @@ slug: research
    Abhinandan Dalal*. 
    <em> International Conference on Artificial Intelligence and Statistics 2024. </em>
    </div>
+  <details class="simple">
+    <summary><i class="ai ai-open-access ai"></i> Simply put </summary>
+    <div class="body">Add your short, friendly summary here.</div>
+  </details>
+</div>
+
+<div class="pub">
+  <div class="title">
+    <span style="font-weight: bold;">
+      <strong>  Feasibility of Transparent Price Discovery in Tea through Auction in India.  </strong>
+      <a href="https://www.mcxindia.com/docs/default-source/about-us/commodity-insights-yearbook/2019/02-emerging-trends/feasibility-of-transparent-price-discovery-in-tea-through-auction-in-india-dr-diganta-mukherjee-mr-abhinandan-dalal-and-mr-subhrajyoty-roy.pdf?sfvrsn=ab5bb390_2">
+        <i class="fa-solid fa-book"></i>
+      </a>
+     </span>
+      <span class="badge">Non-peer reviewed</span>
+  </div>
+  <div class="meta">
+   <a href = "https://isi.irins.org/profile/111450">Diganta Mukherjee</a>, 
+   Abhinandan Dalal, and 
+   <a href = "https://www.statwizard.in/">Subhrajyoty Roy</a>.  
+   <em> Commodity Insights Yearbook 2019, Multi Commodity Exchange of India Ltd. </em>
+  </div>
   <details class="simple">
     <summary><i class="ai ai-open-access ai"></i> Simply put </summary>
     <div class="body">Add your short, friendly summary here.</div>
@@ -280,30 +313,6 @@ slug: research
    <a href = "https://ieor.columbia.edu/content/arindam-roy-chowdhury">Arindam Roy Chowdhury</a>*, 
    Abhinandan Dalal*, and 
    <a href = "https://statistics.sciences.ncsu.edu/people/ssen8/">Shubhajit Sen</a>.  
-  </div>
-  <details class="simple">
-    <summary><i class="ai ai-open-access ai"></i> Simply put </summary>
-    <div class="body">Add your short, friendly summary here.</div>
-  </details>
-</div>
-
-<div class="pub">
-  <div class="title">
-    <span style="font-weight: bold;">
-      <strong>  Feasibility of Transparent Price Discovery in Tea through Auction in India.  </strong>
-      <a href="https://www.mcxindia.com/docs/default-source/about-us/commodity-insights-yearbook/2019/02-emerging-trends/feasibility-of-transparent-price-discovery-in-tea-through-auction-in-india-dr-diganta-mukherjee-mr-abhinandan-dalal-and-mr-subhrajyoty-roy.pdf?sfvrsn=ab5bb390_2">
-        <i class="fa-solid fa-book"></i>
-      </a>
-<!--       <a href="https://github.com/anirbanc96/ECMMD-CondTwoSamp" aria-label="GitHub repository">
-        <i class="fab fa-github"></i>
-      </a> -->
-    </span>
-  </div>
-  <div class="meta">
-   <a href = "https://isi.irins.org/profile/111450">Diganta Mukherjee</a>, 
-   Abhinandan Dalal, and 
-   <a href = "https://www.statwizard.in/">Subhrajyoty Roy</a>.  
-   <em> Commodity Insights Yearbook 2019, Multi Commodity Exchange of India Ltd. </em>
   </div>
   <details class="simple">
     <summary><i class="ai ai-open-access ai"></i> Simply put </summary>
