@@ -78,7 +78,7 @@ slug: research
 <div class="pub">
   <div class="title">
     <span style="font-size: 0.9em; font-weight: bold;">
-      <strong> A Kernel-Based Conditional Two-Sample Test Using Nearest Neighbors (with Applications to Calibration, Regression Curves, and Simulation-Based Inference) </strong>
+      <strong> <em> A Kernel-Based Conditional Two-Sample Test Using Nearest Neighbors (with Applications to Calibration, Regression Curves, and Simulation-Based Inference) </em> </strong>
       <a href="https://arxiv.org/abs/2407.16550" aria-label="arXiv">
         <i class="ai ai-arxiv ai"></i>
       </a>
