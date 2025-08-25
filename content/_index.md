@@ -10,21 +10,6 @@ sitemap:
   :root {
     --olive-color: rgb(102, 153, 51);
   }
-
-  /* Adjusts the space between paragraphs */
-  p {
-    margin-bottom: 1em; /* You can adjust this value to control spacing */
-  }
-
-  /* Adjusts the space between list items */
-  ul {
-    margin: 0;
-    padding-left: 20px;
-  }
-
-  li {
-    margin-bottom: 0.5em; /* Adjusts the space between list items */
-  }
 </style>
 
 <div class="landing-page-wrapper">
@@ -49,7 +34,6 @@ sitemap:
       <li><span style="color: var(--olive-color); font-weight:600;">Causal inference under network interference</span></li>
       <li><span style="color: var(--olive-color); font-weight:600;">Heterogeneity of treatment effects</span></li>
     </ul>
-
     <p>
       Beyond causal inference, I am also interested in
       <span style="color: var(--olive-color); font-weight:600;">anytime-valid inference</span>,
@@ -57,11 +41,9 @@ sitemap:
       <span style="color: var(--olive-color); font-weight:600;">selective inference</span>,
       and <span style="color: var(--olive-color); font-weight:600;">inference with strategic agents</span>.
     </p>
-
     <p>
       I have spent two summers at Amazon: in 2023, I developed anytime-valid DML for causal inference, and in 2024, I used proximal causal inference to design better loss functions for regional demand forecasting.
     </p>
-
     <p>
       When I’m not tangled up in causal riddles, you can find me curled up with a good book, experimenting in the kitchen, or hunched over a game of chess.
     </p>
