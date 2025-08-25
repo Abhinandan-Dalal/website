@@ -6,6 +6,12 @@ sitemap:
   priority: 0.9
 
 ---
+<style>
+  :root {
+    --olive-color: rgb(102, 153, 51);  /* your olive green */
+  }
+</style>
+
 <div class="landing-page-wrapper">
       <div class="top-content">
           <div class="landing-page-content">
@@ -17,17 +23,35 @@ sitemap:
               <img src="avatar.jpg" alt="Placeholder Image">
           </div>
       </div>
+
       <div class="bottom-content">
-        <h2>Research Interest</h2>
+        My research primarily focuses on causal inference, and asking causal questions is a quick way to grab my attention. Specifically, I am interested in:  
+        
+        <ul>
+          <li><span style="color: var(--olive-color); font-weight:600;">Sensitivity analysis to unmeasured confounding</span></li>
+          <li><span style="color: var(--olive-color); font-weight:600;">Double-debiased machine learning (DML)</span></li>
+          <li><span style="color: var(--olive-color); font-weight:600;">Causal inference under network interference</span></li>
+          <li><span style="color: var(--olive-color); font-weight:600;">Heterogeneity of treatment effects</span></li>
+        </ul>
+        
+        Beyond causal inference, I am also interested in 
+        <span style="color: var(--olive-color); font-weight:600;">anytime-valid inference</span>, 
+        <span style="color: var(--olive-color); font-weight:600;">differential privacy</span>, 
+        <span style="color: var(--olive-color); font-weight:600;">selective inference</span>, 
+        and <span style="color: var(--olive-color); font-weight:600;">inference with strategic agents</span>.  
+        
+        I have spent two summers at Amazon: in 2023, I developed anytime-valid DML for causal inference, and in 2024, I used proximal causal inference to design better loss functions for regional demand forecasting.  
+        
+        When I’m not tangled up in causal riddles, you can find me curled up with a good book, experimenting in the kitchen, or hunched over a game of chess.
+      </div>
+  </div>
+
+
+<h2>Research Interest</h2>
           <p>
             The main themes of my research include 
 <!--             statistical network analysis, kernel methods for nonparametric testing, statistical random matrix theory, and differential privacy in graphical models. My current publications and preprints can be found <a href="https://anirbanc96.github.io/main/research/" target="_blank">here. -->
             </a>
         </p>
-      </div>
-  </div>
-
-
-
 
                                      
