@@ -102,7 +102,7 @@ I have been fortunate to mentor students and support their academic and professi
         </tr>
         <tr>
             <td>Fall 2024</td>
-            <td><strong>PhD Peer program</strong> </td>
+            <td><strong>Wharton PhD Peer program</strong> </td>
         </tr>
         <tr>
             <td>Spring 2024</td>
