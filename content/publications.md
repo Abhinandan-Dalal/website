@@ -123,3 +123,25 @@ slug: research
   </details>
 </div>
 
+<div class="pub">
+  <div class="title">
+    <span style="font-size: 0.9em; font-weight: bold;">
+      <strong> <em> Anytime-Valid Inference for Double/Debiased Machine Learning of Causal Parameters. </em> </strong>
+      <a href="https://arxiv.org/abs/2408.09598" aria-label="arXiv">
+        <i class="ai ai-arxiv ai"></i>
+      </a>
+<!--       <a href="https://github.com/anirbanc96/ECMMD-CondTwoSamp" aria-label="GitHub repository">
+        <i class="fab fa-github"></i>
+      </a> -->
+    </span>
+  </div>
+  <div class="meta">Abhinandan Dalal, 
+   <a href = "https://www.amazon.science/author/patrick-bloebaum">Patrick Bl&ouml;baum </a>, <a href = "https://www.shivakasiviswanathan.com/">Shiva Kasiviswanathan </a> and 
+   <a href = "https://www.stat.cmu.edu/~aramdas/">Aaditya Ramdas </a>, </div>
+  <details class="simple">
+    <summary><i class="ai ai-open-access ai"></i> In plain words </summary>
+    <div class="body">Add your short, friendly summary here.</div>
+  </details>
+</div>
+
+
