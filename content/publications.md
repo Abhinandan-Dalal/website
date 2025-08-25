@@ -85,8 +85,9 @@ slug: research
     margin: .4rem 0 .2rem 1.4rem; max-width: 68ch;
   } */
 
- details.simple { margin: .3rem 0 0 .1rem; 
-                  color: var(--olive-color); 
+ details.simple { display: inline;
+    margin-left: .6rem;
+    color: var(--olive-color);
 }
  details.simple > summary {
     cursor: pointer;
