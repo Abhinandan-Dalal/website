@@ -148,11 +148,11 @@ slug: research
    <a href = "https://anirbanc96.github.io/main/">Anirban Chatterjee</a>*, and
    Abhinandan Dalal*. 
    <em> International Conference on Artificial Intelligence and Statistics 2024. </em>
-   </div>
-  <details class="simple">
-    <summary><i class="ai ai-open-access ai"></i> Simply put </summary>
-    <div class="body">Add your short, friendly summary here.</div>
-  </details>
+   <details class="simple">
+     <summary><i class="ai ai-open-access ai"></i> Simply put </summary>
+     <div class="body">Add your short, friendly summary here.</div>
+   </details> 
+  </div>
 </div>
 
 <div class="pub">
