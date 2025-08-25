@@ -302,6 +302,7 @@ slug: research
    <a href = "https://isi.irins.org/profile/111450">Diganta Mukherjee</a>, 
    Abhinandan Dalal, and 
    <a href = "https://www.statwizard.in/">Subhrajyoty Roy</a>.  
+   <em> Commodity Insights Yearbook 2019, Multi Commodity Exchange of India Ltd. </em>
   </div>
   <details class="simple">
     <summary><i class="ai ai-open-access ai"></i> Simply put </summary>
