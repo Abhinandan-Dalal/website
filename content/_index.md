@@ -36,7 +36,7 @@ sitemap:
     <ul>
       <li><span style="color: var(--olive-color);"><strong>Sensitivity analysis to unmeasured confounding</strong></span></li>
       <li><span style="color: var(--olive-color);"><strong>Double-debiased machine learning (DML)</strong></span></li>
-      <li><span style="color: var(--olive-color);"><strong>Causal inference under network interference<strong></span></li>
+      <li><span style="color: var(--olive-color);"><strong>Causal inference under network interference</strong></span></li>
       <li><span style="color: var(--olive-color);"><strong>Heterogeneity of treatment effects</strong></span></li>
     </ul>
     <p>
