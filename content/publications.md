@@ -59,7 +59,7 @@ slug: research
      color: var(--olive-color);
    }
 
-  details.simple { margin: .3rem 0 0 .1rem; }
+/*   details.simple { margin: .3rem 0 0 .1rem; }
   details.simple > summary {
     cursor: pointer; list-style: none; display: inline-flex; align-items: center; gap: .4rem; font-weight: 600;
   }
@@ -70,7 +70,34 @@ slug: research
   details.simple .body {
     font-size: .85rem; line-height: 1.35; color: #444;
     margin: .4rem 0 .2rem 1.4rem; max-width: 68ch;
-  }
+  } */
+
+ details.simple { margin: .3rem 0 0 .1rem; }
+ details.simple > summary {
+   cursor: pointer; 
+   list-style: none; 
+   display: inline-flex; 
+   align-items: center; 
+   gap: .4rem; 
+   font-weight: 600;
+   /* Adjust font size of the summary here */
+   font-size: 0.9em; 
+ }
+ details.simple > summary::before {
+   content: "▶"; 
+   display: inline-block; 
+   transform: translateY(1px); 
+   transition: transform .15s;
+ }
+ details.simple[open] > summary::before { transform: rotate(90deg); }
+ details.simple .body {
+   font-size: .85rem; 
+   line-height: 1.35; 
+   color: #444;
+   margin: .4rem 0 .2rem 1.4rem; 
+   max-width: 68ch;
+ }
+ 
 </style>
 
 <h2 style="color: #556B2F;">Preprints</h2>
