@@ -141,6 +141,7 @@ For my more recent works, please see the
   </div>
 </div>
 
+<!-- 
 <div class="pub">
   <div class="title">
     <span style="font-weight: bold;">
@@ -148,7 +149,6 @@ For my more recent works, please see the
       <a href="https://www.mcxindia.com/docs/default-source/about-us/commodity-insights-yearbook/2019/02-emerging-trends/feasibility-of-transparent-price-discovery-in-tea-through-auction-in-india-dr-diganta-mukherjee-mr-abhinandan-dalal-and-mr-subhrajyoty-roy.pdf?sfvrsn=ab5bb390_2" aria-label="PDF">
         <i class="fa-solid fa-book"></i>
       </a>
-      <!-- <a href="https://github.com/USER/REPO" aria-label="GitHub repository"><i class="fab fa-github"></i></a> -->
     </span>
   </div>
   <div class="meta">
@@ -162,3 +162,4 @@ For my more recent works, please see the
     </details>
   </div>
 </div>
+-->
