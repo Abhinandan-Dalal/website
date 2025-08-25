@@ -89,29 +89,29 @@ slug: research
                   color: var(--olive-color); 
 }
  details.simple > summary {
-   cursor: pointer; 
-   list-style: none; 
-   display: inline-flex; 
-   align-items: center; 
-   gap: .4rem; 
-   font-weight: 600;
-   /* Adjust font size of the summary here */
-   font-size: 0.9em; 
- }
- details.simple > summary::before {
-   content: "▶"; 
-   display: inline-block; 
-   transform: translateY(1px); 
-   transition: transform .15s;
- }
- details.simple[open] > summary::before { transform: rotate(90deg); }
- details.simple .body {
-   font-size: .9rem; 
-   line-height: 1.35; 
-   color: #444;
-   margin: .4rem 0 .2rem 1.4rem; 
-   max-width: 68ch;
- }
+    cursor: pointer;
+    list-style: none;
+    display: inline-flex;
+    align-items: center;
+    gap: .4rem;
+    font-weight: 600;
+    font-size: 0.9em;
+  }
+  details.simple > summary::before {
+    content: "▶";
+    display: inline-block;
+    transform: translateY(1px);
+    transition: transform .15s;
+  }
+  details.simple[open] > summary::before { transform: rotate(90deg); }
+  details.simple .body {
+    display: block;
+    font-size: .9rem;
+    line-height: 1.35;
+    color: #444;
+    margin: .4rem 0 .2rem 1.4rem;
+    max-width: 68ch;
+  }
 
  /* Responsive design for smaller screens */
   @media (max-width: 768px) {
