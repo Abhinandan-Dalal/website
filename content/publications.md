@@ -48,63 +48,71 @@ slug: research
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
 
 <style>
-  /* ===== Compact overrides — placed last to win specificity ===== */
+  .pub { margin: .9rem 0 1.4rem; }
+  .pub .title { font-weight: 600; font-size: 1em; }
+  .pub .meta { font-size: .9em; opacity: .9; margin-top: .15rem; }
 
   :root {
-    --olive-color: rgb(102, 153, 51); /* keep your olive variable */
-  }
-  .olive-word { color: var(--olive-color) !important; }
+         --olive-color: rgb(102, 153, 51); /* Define a CSS variable for the olive color */
+     }
+  .olive-word {
+     color: var(--olive-color);
+   }
 
-  /* Make sure the classes exist: .pub, .title, .meta */
-  :where(.pub) { margin: 0.5rem 0 0.8rem !important; }
-  :where(.pub) :where(.title) { font-weight: 600 !important; font-size: 1em !important; margin-bottom: 0.15rem !important; }
-  :where(.pub) :where(.title) i { font-size: 0.9em !important; }
-  :where(.pub) :where(.meta) { font-size: .9em !important; opacity: .9 !important; margin-top: .1rem !important; }
-
-  /* Inline “Simply put” toggle */
-  details.simple { 
-    display: inline !important;       /* sit on same line as authors/icons */
-    margin-left: 0.6rem !important; 
-    color: var(--olive-color) !important;
-  }
+/*   details.simple { margin: .3rem 0 0 .1rem; }
   details.simple > summary {
-    cursor: pointer; list-style: none;
-    display: inline-flex; align-items: center; gap: .35rem;
-    font-weight: 600; font-size: 0.9em;
+    cursor: pointer; list-style: none; display: inline-flex; align-items: center; gap: .4rem; font-weight: 600;
   }
   details.simple > summary::before {
-    content: "▶"; display: inline-block;
-    transform: translateY(1px);
-    transition: transform .15s;
+    content: "▶"; display: inline-block; transform: translateY(1px); transition: transform .15s;
   }
   details.simple[open] > summary::before { transform: rotate(90deg); }
   details.simple .body {
-    display: block !important;                 /* open below the line */
     font-size: .9rem; line-height: 1.35; color: #444;
-    margin: .35rem 0 0 1.25rem !important; max-width: 68ch;
-  }
+    margin: .4rem 0 .2rem 1.4rem; max-width: 68ch;
+  } */
 
-  /* Small gap between inline icon links next to titles */
-  .icon-gap a { margin-left: 0.3rem !important; }
+ details.simple { margin: .3rem 0 0 .1rem; 
+                  color: var(--olive-color); 
+}
+ details.simple > summary {
+   cursor: pointer; 
+   list-style: none; 
+   display: inline-flex; 
+   align-items: center; 
+   gap: .4rem; 
+   font-weight: 600;
+   /* Adjust font size of the summary here */
+   font-size: 0.9em; 
+ }
+ details.simple > summary::before {
+   content: "▶"; 
+   display: inline-block; 
+   transform: translateY(1px); 
+   transition: transform .15s;
+ }
+ details.simple[open] > summary::before { transform: rotate(90deg); }
+ details.simple .body {
+   font-size: .9rem; 
+   line-height: 1.35; 
+   color: #444;
+   margin: .4rem 0 .2rem 1.4rem; 
+   max-width: 68ch;
+ }
 
-  /* ===== Your existing responsive rules kept intact ===== */
-  .content-container { display: flex; align-items: flex-start; }
-  .text-container { flex-grow: 1; }
-  .side-image {
-    margin-top: 5px;
-    margin-left: 30px;
-    max-width: 40%;
-    border-radius: 2%;
-    overflow: hidden;
-  }
+ /* Responsive design for smaller screens */
   @media (max-width: 768px) {
     .side-image {
       max-width: 100%;
       margin-left: 0;
       margin-bottom: 20px;
     }
-    .content-container { flex-direction: column; }
+
+    .content-container {
+      flex-direction: column;
+    }
   }
+ 
 </style>
 
 
