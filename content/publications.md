@@ -61,14 +61,14 @@ slug: research
 
   .badge {
   display: inline-block;
-  font-size: 0.7em;        /* small text */
-  font-weight: 500;        /* lighter than bold */
-  color: #fff;
-  background-color: #d9534f;  /* Bootstrap-style soft red */
-  padding: 0.1em 0.4em;    /* slim padding */
-  border-radius: 0.4em;    /* rounded pill shape */
-  vertical-align: middle;  /* keeps it aligned with text */
-  opacity: 0.9;            /* softer look */
+  font-size: 0.8em;
+  font-weight: 400;                 /* normal, not bold */
+  color: #c0392b;                   /* deep red for text */
+  background-color: rgba(192, 57, 43, 0.1); /* faint reddish background */
+  padding: 0.15em 0.6em;
+  border: 2px solid #c0392b;        /* solid fat red border */
+  border-radius: 0.5em;             /* rounded rectangle */
+  vertical-align: middle;
   }
 
  
