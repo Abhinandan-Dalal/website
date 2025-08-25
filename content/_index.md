@@ -25,24 +25,32 @@ sitemap:
       </div>
 
       <div class="bottom-content">
-        My research primarily focuses on causal inference, and asking causal questions is a quick way to grab my attention. Specifically, I am interested in:  
-        
-        <ul>
-          <li><span style="color: var(--olive-color); font-weight:600;">Sensitivity analysis to unmeasured confounding</span></li>
-          <li><span style="color: var(--olive-color); font-weight:600;">Double-debiased machine learning (DML)</span></li>
-          <li><span style="color: var(--olive-color); font-weight:600;">Causal inference under network interference</span></li>
-          <li><span style="color: var(--olive-color); font-weight:600;">Heterogeneity of treatment effects</span></li>
-        </ul>
-        
-        Beyond causal inference, I am also interested in 
-        <span style="color: var(--olive-color); font-weight:600;">anytime-valid inference</span>, 
-        <span style="color: var(--olive-color); font-weight:600;">differential privacy</span>, 
-        <span style="color: var(--olive-color); font-weight:600;">selective inference</span>, 
-        and <span style="color: var(--olive-color); font-weight:600;">inference with strategic agents</span>.  
-        
-        I have spent two summers at Amazon: in 2023, I developed anytime-valid DML for causal inference, and in 2024, I used proximal causal inference to design better loss functions for regional demand forecasting.  
-        
-        When I’m not tangled up in causal riddles, you can find me curled up with a good book, experimenting in the kitchen, or hunched over a game of chess.
+    <p>
+      My research primarily focuses on causal inference, and asking causal questions is a quick way to grab my attention. Specifically, I am interested in:
+    </p>
+    <ul>
+      <li><span style="color: var(--olive-color); font-weight:600;">Sensitivity analysis to unmeasured confounding</span></li>
+      <li><span style="color: var(--olive-color); font-weight:600;">Double-debiased machine learning (DML)</span></li>
+      <li><span style="color: var(--olive-color); font-weight:600;">Causal inference under network interference</span></li>
+      <li><span style="color: var(--olive-color); font-weight:600;">Heterogeneity of treatment effects</span></li>
+    </ul>
+
+    <p>
+      Beyond causal inference, I am also interested in 
+      <span style="color: var(--olive-color); font-weight:600;">anytime-valid inference</span>, 
+      <span style="color: var(--olive-color); font-weight:600;">differential privacy</span>, 
+      <span style="color: var(--olive-color); font-weight:600;">selective inference</span>, 
+      and <span style="color: var(--olive-color); font-weight:600;">inference with strategic agents</span>.  
+    </p>
+
+    <p>
+      I have spent two summers at Amazon: in 2023, I developed anytime-valid DML for causal inference, and in 2024, I used proximal causal inference to design better loss functions for regional demand forecasting.  
+    </p>
+
+    <p>
+      When I’m not tangled up in causal riddles, you can find me curled up with a good book, experimenting in the kitchen, or hunched over a game of chess.
+    </p>
+
       </div>
   </div>
 
