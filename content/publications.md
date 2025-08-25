@@ -118,7 +118,7 @@ slug: research
   </div>
   <div class="meta">Anirban Chatterjee, Ziang Niu, Bhaswar B. Bhattacharya</div>
   <details class="simple">
-    <summary><i class="ai ai-open-access ai"></i><span class="olive-word"> In plain words<span class="olive-word"></summary>
+    <summary><i class="ai ai-open-access ai"></i> In plain words </summary>
     <div class="body">Add your short, friendly summary here.</div>
   </details>
 </div>
