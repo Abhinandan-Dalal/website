@@ -107,16 +107,16 @@ slug: research
 <div class="pub">
   <div class="title">
     <span style="font-size: 0.9em; font-weight: bold;">
-      <strong> <em> A Kernel-Based Conditional Two-Sample Test Using Nearest Neighbors (with Applications to Calibration, Regression Curves, and Simulation-Based Inference) </em> </strong>
-      <a href="https://arxiv.org/abs/2407.16550" aria-label="arXiv">
+      <strong> <em> Partial Identification of Causal Effects for Endogenous Continuous Treatments. </em> </strong>
+      <a href="https://arxiv.org/abs/2508.13946" aria-label="arXiv">
         <i class="ai ai-arxiv ai"></i>
       </a>
-      <a href="https://github.com/anirbanc96/ECMMD-CondTwoSamp" aria-label="GitHub repository">
+<!--       <a href="https://github.com/anirbanc96/ECMMD-CondTwoSamp" aria-label="GitHub repository">
         <i class="fab fa-github"></i>
-      </a>
+      </a> -->
     </span>
   </div>
-  <div class="meta">Anirban Chatterjee, Ziang Niu, Bhaswar B. Bhattacharya</div>
+  <div class="meta">Abhinandan Dalal and [Eric J. Tchetgen Tchetgen](https://statistics.wharton.upenn.edu/profile/ett/)</div>
   <details class="simple">
     <summary><i class="ai ai-open-access ai"></i> In plain words </summary>
     <div class="body">Add your short, friendly summary here.</div>
