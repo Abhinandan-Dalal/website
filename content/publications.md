@@ -48,71 +48,61 @@ slug: research
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
 
 <style>
-  .pub { margin: .9rem 0 1.4rem; }
+  /* ==== Compact publication layout ==== */
+  .pub { margin: 0.5rem 0 0.8rem; }                   /* tighter than .9/1.4 */
   .pub .title { font-weight: 600; font-size: 1em; }
-  .pub .meta { font-size: .9em; opacity: .9; margin-top: .15rem; }
+  .pub .title i { font-size: 0.9em; }                 /* lighter icons */
+  .pub .meta { font-size: .9em; opacity: .9; margin-top: .1rem; }
 
   :root {
-         --olive-color: rgb(102, 153, 51); /* Define a CSS variable for the olive color */
-     }
-  .olive-word {
-     color: var(--olive-color);
-   }
+    --olive-color: rgb(102, 153, 51);  /* olive color variable */
+  }
+  .olive-word { color: var(--olive-color); }
 
-/*   details.simple { margin: .3rem 0 0 .1rem; }
+  /* Inline “Simply put” toggle */
+  details.simple {
+    display: inline;                     /* sits on same line as authors/icons */
+    margin-left: 0.6rem;                 /* small gap before toggle */
+    color: var(--olive-color);
+  }
   details.simple > summary {
-    cursor: pointer; list-style: none; display: inline-flex; align-items: center; gap: .4rem; font-weight: 600;
+    cursor: pointer; list-style: none;
+    display: inline-flex; align-items: center; gap: .35rem;
+    font-weight: 600; font-size: 0.9em;
   }
   details.simple > summary::before {
-    content: "▶"; display: inline-block; transform: translateY(1px); transition: transform .15s;
+    content: "▶"; display: inline-block;
+    transform: translateY(1px);
+    transition: transform .15s;
   }
   details.simple[open] > summary::before { transform: rotate(90deg); }
   details.simple .body {
+    display: block;                       /* body opens below */
     font-size: .9rem; line-height: 1.35; color: #444;
-    margin: .4rem 0 .2rem 1.4rem; max-width: 68ch;
-  } */
+    margin: .35rem 0 0 1.25rem; max-width: 68ch;
+  }
 
- details.simple { margin: .3rem 0 0 .1rem; 
-                  color: var(--olive-color); 
-}
- details.simple > summary {
-   cursor: pointer; 
-   list-style: none; 
-   display: inline-flex; 
-   align-items: center; 
-   gap: .4rem; 
-   font-weight: 600;
-   /* Adjust font size of the summary here */
-   font-size: 0.9em; 
- }
- details.simple > summary::before {
-   content: "▶"; 
-   display: inline-block; 
-   transform: translateY(1px); 
-   transition: transform .15s;
- }
- details.simple[open] > summary::before { transform: rotate(90deg); }
- details.simple .body {
-   font-size: .9rem; 
-   line-height: 1.35; 
-   color: #444;
-   margin: .4rem 0 .2rem 1.4rem; 
-   max-width: 68ch;
- }
+  /* Add a little spacing between inline icons */
+  .icon-gap a { margin-left: 0.3rem; }
 
- /* Responsive design for smaller screens */
+  /* ==== Responsive tweaks (your originals kept) ==== */
+  .content-container { display: flex; align-items: flex-start; }
+  .text-container { flex-grow: 1; }
+  .side-image {
+    margin-top: 5px;
+    margin-left: 30px;
+    max-width: 40%;
+    border-radius: 2%;
+    overflow: hidden;
+  }
   @media (max-width: 768px) {
     .side-image {
       max-width: 100%;
       margin-left: 0;
       margin-bottom: 20px;
     }
-
-    .content-container {
-      flex-direction: column;
-    }
+    .content-container { flex-direction: column; }
   }
- 
 </style>
 
 <span style = "color: #556B2F; font-size: 0.9em; "> (* denotes equal contribution) </span>
