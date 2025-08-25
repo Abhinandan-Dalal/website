@@ -13,7 +13,7 @@ sitemap:
   /* This new rule reduces the spacing between list items */
   li {
     margin-bottom: 0em; /* Adjust this value to change the spacing */
-    color: var(--olive-color); /* This makes the bullets olive */
+/*     color: var(--olive-color); /* This makes the bullets olive */ */
   }
 </style>
 
@@ -34,10 +34,10 @@ sitemap:
       My research primarily focuses on causal inference, and asking causal questions is a quick way to grab my attention. Specifically, I am interested in:
     </p>
     <ul>
-      <li><span style="color: var(--olive-color);"><strong>Sensitivity analysis to unmeasured confounding</strong></span></li>
-      <li><span style="color: var(--olive-color);"><strong>Double-debiased machine learning (DML)</strong></span></li>
-      <li><span style="color: var(--olive-color);"><strong>Causal inference under network interference</strong></span></li>
-      <li><span style="color: var(--olive-color);"><strong>Heterogeneity of treatment effects</strong></span></li>
+      <span style="color: var(--olive-color);"><li><strong>Sensitivity analysis to unmeasured confounding</strong></li></span>
+      <span style="color: var(--olive-color);"><li><strong>Double-debiased machine learning (DML)</strong></li></span>
+      <span style="color: var(--olive-color);"><li><strong>Causal inference under network interference</strong></li></span>
+      <span style="color: var(--olive-color);"><li><strong>Heterogeneity of treatment effects</strong></li></span>
     </ul>
     <p>
       Beyond causal inference, I am also interested in
