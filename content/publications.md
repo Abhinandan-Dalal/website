@@ -48,48 +48,36 @@ slug: research
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
 
 <style>
+  /* Publication layout (same feel as your research page) */
   .pub { margin: .9rem 0 1.4rem; }
   .pub .title { font-weight: 600; font-size: 1em; }
   .pub .meta { font-size: .9em; opacity: .9; margin-top: .15rem; }
 
+  /* Olive theme */
   :root {
-         --olive-color: rgb(102, 153, 51); /* Define a CSS variable for the olive color */
-     }
-  .olive-word {
-     color: var(--olive-color);
-   }
+    --olive-color: rgb(102, 153, 51);
+  }
+  .olive-word { color: var(--olive-color); }
 
   .badge {
-  display: inline-block;
-  font-size: 0.8em;
-  font-weight: 400;                 /* normal, not bold */
-  color: #c0392b;                   /* deep red for text */
-  background-color: rgba(192, 57, 43, 0.1); /* faint reddish background */
-  padding: 0.15em 0.6em;
-  border: 2px solid #c0392b;        /* solid fat red border */
-  border-radius: 0.5em;             /* rounded rectangle */
-  vertical-align: middle;
-  }
+   display: inline-block;
+   font-size: 0.8em;
+   font-weight: 400;                 /* normal, not bold */
+   color: #c0392b;                   /* deep red for text */
+   background-color: rgba(192, 57, 43, 0.1); /* faint reddish background */
+   padding: 0.15em 0.6em;
+   border: 2px solid #c0392b;        /* solid fat red border */
+   border-radius: 0.5em;             /* rounded rectangle */
+   vertical-align: middle;
+   }
 
- 
-/*   details.simple { margin: .3rem 0 0 .1rem; }
-  details.simple > summary {
-    cursor: pointer; list-style: none; display: inline-flex; align-items: center; gap: .4rem; font-weight: 600;
-  }
-  details.simple > summary::before {
-    content: "▶"; display: inline-block; transform: translateY(1px); transition: transform .15s;
-  }
-  details.simple[open] > summary::before { transform: rotate(90deg); }
-  details.simple .body {
-    font-size: .9rem; line-height: 1.35; color: #444;
-    margin: .4rem 0 .2rem 1.4rem; max-width: 68ch;
-  } */
-
- details.simple { display: inline;
+  /* “Simply put” — inline label; body opens below */
+  details.simple {
+    display: inline;
     margin-left: .6rem;
     color: var(--olive-color);
-}
- details.simple > summary {
+  }
+  details.simple > summary {
     cursor: pointer;
     list-style: none;
     display: inline-flex;
@@ -114,20 +102,26 @@ slug: research
     max-width: 68ch;
   }
 
- /* Responsive design for smaller screens */
+  /* Responsive (kept from your snippet) */
+  .content-container { display: flex; align-items: flex-start; }
+  .text-container { flex-grow: 1; }
+  .side-image {
+    margin-top: 5px;
+    margin-left: 30px;
+    max-width: 40%;
+    border-radius: 2%;
+    overflow: hidden;
+  }
   @media (max-width: 768px) {
     .side-image {
       max-width: 100%;
       margin-left: 0;
       margin-bottom: 20px;
     }
-
-    .content-container {
-      flex-direction: column;
-    }
+    .content-container { flex-direction: column; }
   }
- 
 </style>
+
 
 
 <span style = "color: #556B2F; font-size: 0.9em; "> (* denotes equal contribution) </span>
