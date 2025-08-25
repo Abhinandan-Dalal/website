@@ -10,6 +10,11 @@ sitemap:
   :root {
     --olive-color: rgb(102, 153, 51);
   }
+  /* This new rule reduces the spacing between list items */
+  li {
+    margin-bottom: 0.25em; /* Adjust this value to change the spacing */
+    color: var(--olive-color); /* This makes the bullets olive */
+  }
 </style>
 
 <div class="landing-page-wrapper">
@@ -29,7 +34,7 @@ sitemap:
       My research primarily focuses on causal inference, and asking causal questions is a quick way to grab my attention. Specifically, I am interested in:
     </p>
     <ul>
-      <li><span style="color: var(--olive-color); font-weight:600;">Sensitivity analysis to unmeasured confounding</span></li>
+      <li><span style="color: var(--olive-color);"><strong>Sensitivity analysis to unmeasured confounding</strong></span></li>
       <li><span style="color: var(--olive-color); font-weight:600;">Double-debiased machine learning (DML)</span></li>
       <li><span style="color: var(--olive-color); font-weight:600;">Causal inference under network interference</span></li>
       <li><span style="color: var(--olive-color); font-weight:600;">Heterogeneity of treatment effects</span></li>
