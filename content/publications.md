@@ -215,3 +215,29 @@ slug: research
   </details>
 </div>
 
+<h2 style="color: #556B2F;">Technical Reports</h2>
+
+<div class="pub">
+  <div class="title">
+    <span style="font-weight: bold;">
+      <strong>  An endogenous (game-theoretic) approach to explore epidemic dynamics on a network.  </strong>
+      <a href="https://drive.google.com/file/d/1e69HklrFemK6LzB8KZ_QViD9XuksI7Df/view">
+        <i class="fab fa-google-drive"></i>
+      </a>
+<!--       <a href="https://github.com/anirbanc96/ECMMD-CondTwoSamp" aria-label="GitHub repository">
+        <i class="fab fa-github"></i>
+      </a> -->
+    </span>
+  </div>
+  <div class="meta">
+   Abhinandan Dalal,
+   <a href = "https://isi.irins.org/profile/111450">Diganta Mukherjee </a> and 
+   <a href = "https://soumendu041.gitlab.io/">Soumendu Sundar Mukherjee</a>.  
+  </div>
+  <details class="simple">
+    <summary><i class="ai ai-open-access ai"></i> In plain words </summary>
+    <div class="body">Add your short, friendly summary here.</div>
+  </details>
+</div>
+
+
