@@ -68,7 +68,7 @@ slug: research
   }
   details.simple[open] > summary::before { transform: rotate(90deg); }
   details.simple .body {
-    font-size: .85rem; line-height: 1.35; color: #444;
+    font-size: .9rem; line-height: 1.35; color: #444;
     margin: .4rem 0 .2rem 1.4rem; max-width: 68ch;
   } */
 
