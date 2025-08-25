@@ -109,7 +109,7 @@ slug: research
 <div class="pub">
   <div class="title">
     <span style="font-weight: bold;">
-      <strong> <em> Partial Identification of Causal Effects for Endogenous Continuous Treatments. </em> </strong>
+      <strong> Partial Identification of Causal Effects for Endogenous Continuous Treatments. </strong>
       <a href="https://arxiv.org/abs/2508.13946" aria-label="arXiv">
         <i class="ai ai-arxiv ai"></i>
       </a>
@@ -118,7 +118,7 @@ slug: research
       </a> -->
     </span>
   </div>
-  <div class="meta">Abhinandan Dalal and <a href = "https://statistics.wharton.upenn.edu/profile/ett/">Eric J. Tchetgen Tchetgen </a> </div>
+  <div class="meta">Abhinandan Dalal and <a href = "https://statistics.wharton.upenn.edu/profile/ett/">Eric J. Tchetgen Tchetgen </a>. </div>
   <details class="simple">
     <summary><i class="ai ai-open-access ai"></i> In plain words </summary>
     <div class="body">Add your short, friendly summary here.</div>
@@ -128,7 +128,7 @@ slug: research
 <div class="pub">
   <div class="title">
     <span style="font-weight: bold;">
-      <strong> <em> Anytime-Valid Inference for Double/Debiased Machine Learning of Causal Parameters. </em> </strong>
+      <strong> Anytime-Valid Inference for Double/Debiased Machine Learning of Causal Parameters. </strong>
       <a href="https://arxiv.org/abs/2408.09598" aria-label="arXiv">
         <i class="ai ai-arxiv ai"></i>
       </a>
@@ -139,7 +139,7 @@ slug: research
   </div>
   <div class="meta">Abhinandan Dalal, 
    <a href = "https://www.amazon.science/author/patrick-bloebaum">Patrick Bl&ouml;baum </a>, <a href = "https://www.shivakasiviswanathan.com/">Shiva Kasiviswanathan </a> and 
-   <a href = "https://www.stat.cmu.edu/~aramdas/">Aaditya Ramdas </a> </div>
+   <a href = "https://www.stat.cmu.edu/~aramdas/">Aaditya Ramdas </a>. </div>
   <details class="simple">
     <summary><i class="ai ai-open-access ai"></i> In plain words </summary>
     <div class="body">Add your short, friendly summary here.</div>
@@ -149,7 +149,7 @@ slug: research
 <div class="pub">
   <div class="title">
     <span style="font-weight: bold;">
-      <strong> <em> Planning for Gold: Sample Splitting for Valid Powerful Design of Observational Studies. </em> </strong>
+      <strong>  Planning for Gold: Sample Splitting for Valid Powerful Design of Observational Studies.  </strong>
       <a href="https://arxiv.org/abs/2406.00866" aria-label="arXiv">
         <i class="ai ai-arxiv ai"></i>
       </a>
