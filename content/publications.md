@@ -99,10 +99,9 @@ slug: research
     line-height: 1.35;
     color: #444;
     margin: .4rem 0 .2rem 1.4rem;
-    max-width: 68ch;
+/*     max-width: 68ch; */
   }
 
-  /* Responsive (kept from your snippet) */
   .content-container { display: flex; align-items: flex-start; }
   .text-container { flex-grow: 1; }
   .side-image {
@@ -246,77 +245,6 @@ slug: research
      <div class="body">Add your short, friendly summary here.</div>
    </details>
   </div>
-</div>
-
-<h2 style="color: #556B2F;">Technical Reports</h2>
-
-<div class="pub">
-  <div class="title">
-    <span style="font-weight: bold;">
-      <strong>  An endogenous (game-theoretic) approach to explore epidemic dynamics on a network.  </strong>
-      <a href="https://drive.google.com/file/d/1e69HklrFemK6LzB8KZ_QViD9XuksI7Df/view">
-        <i class="fab fa-google-drive"></i>
-      </a>
-<!--       <a href="https://github.com/anirbanc96/ECMMD-CondTwoSamp" aria-label="GitHub repository">
-        <i class="fab fa-github"></i>
-      </a> -->
-    </span>
-  </div>
-  <div class="meta">
-   Abhinandan Dalal,
-   <a href = "https://isi.irins.org/profile/111450">Diganta Mukherjee </a> and 
-   <a href = "https://soumendu041.gitlab.io/">Soumendu Sundar Mukherjee</a>.  
-  </div>
-  <details class="simple">
-    <summary><i class="ai ai-open-access ai"></i> Simply put </summary>
-    <div class="body">Add your short, friendly summary here.</div>
-  </details>
-</div>
-
-<div class="pub">
-  <div class="title">
-    <span style="font-weight: bold;">
-      <strong>  Finding Optimal Cancer Treatment using Markov Decision Process to Improve Overall Health and Quality of Life.   </strong>
-      <a href="https://arxiv.org/abs/2011.13960" aria-label="arXiv">
-        <i class="ai ai-arxiv ai"></i>
-      </a>
-<!--       <a href="https://github.com/anirbanc96/ECMMD-CondTwoSamp" aria-label="GitHub repository">
-        <i class="fab fa-github"></i>
-      </a> -->
-    </span>
-  </div>
-  <div class="meta">
-   <a href = "https://www.linkedin.com/in/navonil-deb-06939b1b4/">Navonil Deb</a>*, 
-   Abhinandan Dalal*, and 
-   <a href = "https://isi.irins.org/profile/111458">Gopal K. Basak </a>.  
-  </div>
-  <details class="simple">
-    <summary><i class="ai ai-open-access ai"></i> Simply put </summary>
-    <div class="body">Add your short, friendly summary here.</div>
-  </details>
-</div>
-
-<div class="pub">
-  <div class="title">
-    <span style="font-weight: bold;">
-      <strong>  Accelerography: Feasibility of Gesture Typing using Accelerometer.   </strong>
-      <a href="https://arxiv.org/abs/2003.14310" aria-label="arXiv">
-        <i class="ai ai-arxiv ai"></i>
-      </a>
-<!--       <a href="https://github.com/anirbanc96/ECMMD-CondTwoSamp" aria-label="GitHub repository">
-        <i class="fab fa-github"></i>
-      </a> -->
-    </span>
-  </div>
-  <div class="meta">
-   <a href = "https://ieor.columbia.edu/content/arindam-roy-chowdhury">Arindam Roy Chowdhury</a>*, 
-   Abhinandan Dalal*, and 
-   <a href = "https://statistics.sciences.ncsu.edu/people/ssen8/">Shubhajit Sen</a>.  
-  </div>
-  <details class="simple">
-    <summary><i class="ai ai-open-access ai"></i> Simply put </summary>
-    <div class="body">Add your short, friendly summary here.</div>
-  </details>
 </div>
 
 <p style="font-size:1em;">
