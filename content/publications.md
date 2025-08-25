@@ -219,9 +219,9 @@ slug: research
    <a href = "https://www.amazon.science/author/patrick-bloebaum">Patrick Bl&ouml;baum </a>, <a href = "https://www.shivakasiviswanathan.com/">Shiva Kasiviswanathan </a> and 
    <a href = "https://www.stat.cmu.edu/~aramdas/">Aaditya Ramdas</a>. 
    <details class="simple">
-     <summary><i class="ai ai-open-access ai"></i> A doctor wants to test a pill by giving some people the pill and others a look-alike candy. Not everyone takes what they are given. The doctor checks results as the study goes on—ready to stop early if the pill looks harmful, or to recommend it widely if it looks helpful. In this work, we show how such continuous monitoring can be done without making the doctor’s conclusions invalid (and many more such problems), even when using machine-learning–based inference. 
+     <summary><i class="ai ai-open-access ai"></i> Simply put
      </summary>
-     <div class="body">Add your short, friendly summary here.</div>
+     <div class="body">A doctor wants to test a pill by giving some people the pill and others a look-alike candy. Not everyone takes what they are given. The doctor checks results as the study goes on—ready to stop early if the pill looks harmful, or to recommend it widely if it looks helpful. In this work, we show how such continuous monitoring can be done without making the doctor’s conclusions invalid (and many more such problems), even when using machine-learning–based inference. </div>
    </details>
   </div>
 </div>
