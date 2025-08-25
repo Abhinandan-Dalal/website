@@ -99,7 +99,7 @@ slug: research
     line-height: 1.35;
     color: #444;
     margin: .4rem 0 .2rem 1.4rem;
-/*     max-width: 68ch; */
+    max-width: 90%;
   }
 
   .content-container { display: flex; align-items: flex-start; }
