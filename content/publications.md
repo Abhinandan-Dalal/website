@@ -102,7 +102,7 @@ slug: research
  
 </style>
 
-<span class="olive-word" style = "font-size: 0.9em; "> (* denotes equal contribution) </span>
+<span style = "color: #556B2F; font-size: 0.9em; "> (* denotes equal contribution) </span>
 
 <h2 style="color: #556B2F;">Publications</h2>
 
