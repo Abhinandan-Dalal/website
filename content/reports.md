@@ -93,7 +93,7 @@ For my more recent works, please see the
     <a href="https://soumendu041.gitlab.io/">Soumendu Sundar Mukherjee</a>.
     <details class="simple">
       <summary><i class="ai ai-open-access ai"></i> Simply put</summary>
-      <div class="body">Add your short, friendly summary here.</div>
+      <div class="body"> An epidemic spreads through a network of people, but individuals are smart—they try to avoid infection while still staying connected to friends. How quickly does the disease spread? And what happens to society as a whole? We explore these dynamics and show that the speed of spread depends strongly on the size of the “middle class” in this networked society. </div>
     </details>
   </div>
 </div>
@@ -114,7 +114,7 @@ For my more recent works, please see the
     <a href="https://isi.irins.org/profile/111458">Gopal K. Basak</a>.
     <details class="simple">
       <summary><i class="ai ai-open-access ai"></i> Simply put</summary>
-      <div class="body">Add your short, friendly summary here.</div>
+      <div class="body"> Imagine a young professional and an older retiree both facing cancer. The younger person may want to return to normal life quickly, even if that means enduring side-effects, while the retiree may prefer to maximize comfortable days. Cancer treatment isn’t only about eliminating the disease—it deeply affects quality of life. In this work, we show how doctors can systematically choose the next step in treatment by considering both the patient’s medical status and their personal preferences. </div>
     </details>
   </div>
 </div>
@@ -135,30 +135,8 @@ For my more recent works, please see the
     <a href="https://statistics.sciences.ncsu.edu/people/ssen8/">Shubhajit Sen</a>.
     <details class="simple">
       <summary><i class="ai ai-open-access ai"></i> Simply put</summary>
-      <div class="body">Add your short, friendly summary here.</div>
+      <div class="body">Imagine typing just by moving your phone. Instead of tapping keys, we show how the phone’s 3D movements can be turned into letters, making gesture typing possible. </div>
     </details>
   </div>
 </div>
 
-<!-- 
-<div class="pub">
-  <div class="title">
-    <span style="font-weight: bold;">
-      <strong>Feasibility of Transparent Price Discovery in Tea through Auction in India.</strong>
-      <a href="https://www.mcxindia.com/docs/default-source/about-us/commodity-insights-yearbook/2019/02-emerging-trends/feasibility-of-transparent-price-discovery-in-tea-through-auction-in-india-dr-diganta-mukherjee-mr-abhinandan-dalal-and-mr-subhrajyoty-roy.pdf?sfvrsn=ab5bb390_2" aria-label="PDF">
-        <i class="fa-solid fa-book"></i>
-      </a>
-    </span>
-  </div>
-  <div class="meta">
-    <a href="https://isi.irins.org/profile/111450">Diganta Mukherjee</a>,
-    Abhinandan Dalal, and
-    <a href="https://www.statwizard.in/">Subhrajyoty Roy</a>.
-    <em>Commodity Insights Yearbook 2019, Multi Commodity Exchange of India Ltd.</em>
-    <details class="simple">
-      <summary><i class="ai ai-open-access ai"></i> Simply put</summary>
-      <div class="body">Add your short, friendly summary here.</div>
-    </details>
-  </div>
-</div>
--->
