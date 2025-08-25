@@ -150,7 +150,7 @@ slug: research
    <em> International Conference on Artificial Intelligence and Statistics 2024. </em>
    <details class="simple">
      <summary><i class="ai ai-open-access ai"></i> Simply put </summary>
-     <div class="body">Add your short, friendly summary here.</div>
+     <div class="body">The Ising model, originally developed as a spin-glass model for ferromagnetic elements, has gained popularity as a network-based model for capturing dependencies in agents’ outputs. Its increasing adoption in healthcare and the social sciences has raised privacy concerns regarding the confidentiality of agents’ responses. In this paper, we present a novel epsilon-delta -differentially private algorithm specifically designed to protect the privacy of individual agents’ outcomes. Our algorithm allows for precise estimation of the natural parameter using a single network through an objective perturbation technique. Furthermore, we establish regret bounds for this algorithm and assess its performance on synthetic datasets and two real-world networks: one involving HIV status in a social network and the other concerning the political leaning of online blogs.</div>
    </details> 
   </div>
 </div>
@@ -170,11 +170,11 @@ slug: research
    <a href = "https://www.statwizard.in/">Subhrajyoty Roy</a>.  
    <em> Commodity Insights Yearbook 2019, Multi Commodity Exchange of India Ltd. </em> 
    <span class="badge">Non-peer reviewed</span>
+   <details class="simple">
+     <summary><i class="ai ai-open-access ai"></i> Simply put </summary>
+     <div class="body">Add your short, friendly summary here.</div>
+   </details>
   </div>
-  <details class="simple">
-    <summary><i class="ai ai-open-access ai"></i> Simply put </summary>
-    <div class="body">Add your short, friendly summary here.</div>
-  </details>
 </div>
 
 
@@ -193,11 +193,12 @@ slug: research
       </a> -->
     </span>
   </div>
-  <div class="meta">Abhinandan Dalal and <a href = "https://statistics.wharton.upenn.edu/profile/ett/">Eric J. Tchetgen Tchetgen</a>. </div>
-  <details class="simple">
-    <summary><i class="ai ai-open-access ai"></i> Simply put </summary>
-    <div class="body">Add your short, friendly summary here.</div>
-  </details>
+  <div class="meta">Abhinandan Dalal and <a href = "https://statistics.wharton.upenn.edu/profile/ett/">Eric J. Tchetgen Tchetgen</a>. 
+   <details class="simple">
+     <summary><i class="ai ai-open-access ai"></i> Simply put </summary>
+     <div class="body">Add your short, friendly summary here.</div>
+   </details>
+  </div>
 </div>
 
 <div class="pub">
