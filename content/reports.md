@@ -1,5 +1,5 @@
 ---
-title: ""
+title: 
 ---
 
 <!-- Icon stylesheets (safe to keep here; remove if your theme already loads them) -->
@@ -46,10 +46,9 @@ title: ""
     line-height: 1.35;
     color: #444;
     margin: .4rem 0 .2rem 1.4rem;
-    max-width: 68ch;
+    max-width: 90%;
   }
 
-  /* Responsive (kept from your snippet) */
   .content-container { display: flex; align-items: flex-start; }
   .text-container { flex-grow: 1; }
   .side-image {
