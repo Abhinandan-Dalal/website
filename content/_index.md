@@ -31,7 +31,7 @@ sitemap:
 
   <div class="bottom-content">
     <p>
-      My research primarily focuses on causal inference, and asking causal questions is a quick way to grab my attention. Specifically, I am interested in:
+      My research primarily focuses on <span style="color: var(--olive-color);"><strong>causal inference</strong></span>, and asking causal questions is a quick way to grab my attention. Specifically, I am interested in:
     </p>
     <ul>
       <span style="color: var(--olive-color);"><li><strong>Sensitivity analysis to unmeasured confounding</strong></li></span>
