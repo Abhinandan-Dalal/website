@@ -215,11 +215,12 @@ slug: research
   </div>
   <div class="meta">Abhinandan Dalal, 
    <a href = "https://www.amazon.science/author/patrick-bloebaum">Patrick Bl&ouml;baum </a>, <a href = "https://www.shivakasiviswanathan.com/">Shiva Kasiviswanathan </a> and 
-   <a href = "https://www.stat.cmu.edu/~aramdas/">Aaditya Ramdas</a>. </div>
-  <details class="simple">
-    <summary><i class="ai ai-open-access ai"></i> Simply put </summary>
-    <div class="body">Add your short, friendly summary here.</div>
-  </details>
+   <a href = "https://www.stat.cmu.edu/~aramdas/">Aaditya Ramdas</a>. 
+   <details class="simple">
+     <summary><i class="ai ai-open-access ai"></i> Simply put </summary>
+     <div class="body">Add your short, friendly summary here.</div>
+   </details>
+  </div>
 </div>
 
 <div class="pub">
@@ -240,11 +241,11 @@ slug: research
    <a href = "https://blogs.worldbank.org/en/team/c/carlo-del-ninno">Carlo del Ninno </a> and 
    <a href = "https://statistics.wharton.upenn.edu/profile/dsmall/">Dylan S Small</a>.  
    Major revision at <em>Biometrika</em>.
+   <details class="simple">
+     <summary><i class="ai ai-open-access ai"></i> Simply put </summary>
+     <div class="body">Add your short, friendly summary here.</div>
+   </details>
   </div>
-  <details class="simple">
-    <summary><i class="ai ai-open-access ai"></i> Simply put </summary>
-    <div class="body">Add your short, friendly summary here.</div>
-  </details>
 </div>
 
 <h2 style="color: #556B2F;">Technical Reports</h2>
