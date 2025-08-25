@@ -121,7 +121,15 @@ slug: research
   }
 </style>
 
-
+<details style="margin:1rem 0;">
+  <summary style="cursor:pointer; display:flex; align-items:center; gap:.5rem; font-weight:600; color:#333;">
+    <i class="fa-solid fa-cloud" aria-hidden="true"></i> A bit of philosophy
+  </summary>
+  <p style="font-size:0.95em; color:#555; margin:0.5rem 0 0 1.5rem;">
+    There is a widening gap between how the public understands science and what scientists actually do, which has fueled mistrust.
+    As baby steps toward closing this gap, I’ve added two-sentence gists to my works under “Simply put,” written in accessible everyday language.
+  </p>
+</details>
 
 <span style = "color: #556B2F; font-size: 0.9em; "> (* denotes equal contribution) </span>
 
