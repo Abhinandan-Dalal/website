@@ -10,8 +10,7 @@ sitemap:
       <div class="top-content">
           <div class="landing-page-content">
             <p>
-              I am currently a fifth year PhD student in the <a href = "https://statistics.wharton.upenn.edu/"> Department of Statistics & Data Science</a> at the <a href = "https://www.wharton.upenn.edu/" target = "_blank">The Wharton School </a>, <a href = "https://www.upenn.edu/" target = "_blank"> University of Pennsyvania </a>. 
-<!--     , working under the supervision of <a href="http://www-stat.wharton.upenn.edu/~bhaswar/" target="_blank">Prof. Bhaswar B. Bhattacharya</a>. Previously, I completed my Bachelor's and Master's degrees in Statistics from the <a href="https://www.isical.ac.in/" target="_blank">Indian Statistical Institute, Kolkata</a>. -->
+              I am currently a fifth year PhD student in the <a href = "https://statistics.wharton.upenn.edu/"> Department of Statistics & Data Science</a> at the <a href = "https://www.wharton.upenn.edu/" target = "_blank">The Wharton School </a>, <a href = "https://www.upenn.edu/" target = "_blank"> University of Pennsyvania </a>, where I am fortunate to have been advised by <a href = "https://statistics.wharton.upenn.edu/profile/dsmall/" target = "_blank"> Prof. Dylan Small </a>. During my time at Penn, I have also had the opportunity to collaborate closely with <a href="https://statistics.wharton.upenn.edu/profile/ett/" target="_blank"> Prof. Eric Tchetgen Tchetgen</a>. Previously, I completed my Bachelor's and Master's degrees in Statistics from the <a href="https://www.isical.ac.in/" target="_blank">Indian Statistical Institute, Kolkata</a>.
                 </p>
           </div>
           <div class="landing-page-image">
