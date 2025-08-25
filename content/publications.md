@@ -48,22 +48,24 @@ slug: research
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
 
 <style>
-  /* ==== Compact publication layout ==== */
-  .pub { margin: 0.5rem 0 0.8rem; }                   /* tighter than .9/1.4 */
-  .pub .title { font-weight: 600; font-size: 1em; }
-  .pub .title i { font-size: 0.9em; }                 /* lighter icons */
-  .pub .meta { font-size: .9em; opacity: .9; margin-top: .1rem; }
+  /* ===== Compact overrides — placed last to win specificity ===== */
 
   :root {
-    --olive-color: rgb(102, 153, 51);  /* olive color variable */
+    --olive-color: rgb(102, 153, 51); /* keep your olive variable */
   }
-  .olive-word { color: var(--olive-color); }
+  .olive-word { color: var(--olive-color) !important; }
+
+  /* Make sure the classes exist: .pub, .title, .meta */
+  :where(.pub) { margin: 0.5rem 0 0.8rem !important; }
+  :where(.pub) :where(.title) { font-weight: 600 !important; font-size: 1em !important; margin-bottom: 0.15rem !important; }
+  :where(.pub) :where(.title) i { font-size: 0.9em !important; }
+  :where(.pub) :where(.meta) { font-size: .9em !important; opacity: .9 !important; margin-top: .1rem !important; }
 
   /* Inline “Simply put” toggle */
-  details.simple {
-    display: inline;                     /* sits on same line as authors/icons */
-    margin-left: 0.6rem;                 /* small gap before toggle */
-    color: var(--olive-color);
+  details.simple { 
+    display: inline !important;       /* sit on same line as authors/icons */
+    margin-left: 0.6rem !important; 
+    color: var(--olive-color) !important;
   }
   details.simple > summary {
     cursor: pointer; list-style: none;
@@ -77,15 +79,15 @@ slug: research
   }
   details.simple[open] > summary::before { transform: rotate(90deg); }
   details.simple .body {
-    display: block;                       /* body opens below */
+    display: block !important;                 /* open below the line */
     font-size: .9rem; line-height: 1.35; color: #444;
-    margin: .35rem 0 0 1.25rem; max-width: 68ch;
+    margin: .35rem 0 0 1.25rem !important; max-width: 68ch;
   }
 
-  /* Add a little spacing between inline icons */
-  .icon-gap a { margin-left: 0.3rem; }
+  /* Small gap between inline icon links next to titles */
+  .icon-gap a { margin-left: 0.3rem !important; }
 
-  /* ==== Responsive tweaks (your originals kept) ==== */
+  /* ===== Your existing responsive rules kept intact ===== */
   .content-container { display: flex; align-items: flex-start; }
   .text-container { flex-grow: 1; }
   .side-image {
@@ -104,6 +106,7 @@ slug: research
     .content-container { flex-direction: column; }
   }
 </style>
+
 
 <span style = "color: #556B2F; font-size: 0.9em; "> (* denotes equal contribution) </span>
 
