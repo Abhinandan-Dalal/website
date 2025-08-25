@@ -173,7 +173,7 @@ slug: research
    <span class="badge">Non-peer reviewed</span>
    <details class="simple">
      <summary><i class="ai ai-open-access ai"></i> Simply put </summary>
-     <div class="body">Add your short, friendly summary here.</div>
+     <div class="body">We study the factors that influence tea prices when tea-gardens in India auction their leaves to teahouses. In particular, we highlight the role of professional tea-tasters who provide manual valuations.</div>
    </details>
   </div>
 </div>
@@ -197,7 +197,8 @@ slug: research
   <div class="meta">Abhinandan Dalal and <a href = "https://statistics.wharton.upenn.edu/profile/ett/">Eric J. Tchetgen Tchetgen</a>. 
    <details class="simple">
      <summary><i class="ai ai-open-access ai"></i> Simply put </summary>
-     <div class="body">Add your short, friendly summary here.</div>
+     <div class="body">An effect is causal only if it cannot be explained away by other factors. But what if some relevant factor is unmeasured? We study the sensitivity of causal claims to such unobserved confounding, focusing on continuous treatments (e.g., varying levels of exposure to secondhand smoke) and their effects on outcomes (e.g., children’s blood lead levels). Using machine learning, we estimate how much the outcome could vary once we account for potentially unmeasured biases.
+     </div>
    </details>
   </div>
 </div>
@@ -218,7 +219,8 @@ slug: research
    <a href = "https://www.amazon.science/author/patrick-bloebaum">Patrick Bl&ouml;baum </a>, <a href = "https://www.shivakasiviswanathan.com/">Shiva Kasiviswanathan </a> and 
    <a href = "https://www.stat.cmu.edu/~aramdas/">Aaditya Ramdas</a>. 
    <details class="simple">
-     <summary><i class="ai ai-open-access ai"></i> Simply put </summary>
+     <summary><i class="ai ai-open-access ai"></i> A doctor wants to test a pill by giving some people the pill and others a look-alike candy. Not everyone takes what they are given. The doctor checks results as the study goes on—ready to stop early if the pill looks harmful, or to recommend it widely if it looks helpful. In this work, we show how such continuous monitoring can be done without making the doctor’s conclusions invalid (and many more such problems), even when using machine-learning–based inference. 
+     </summary>
      <div class="body">Add your short, friendly summary here.</div>
    </details>
   </div>
@@ -244,7 +246,8 @@ slug: research
    Major revision at <em>Biometrika</em>.
    <details class="simple">
      <summary><i class="ai ai-open-access ai"></i> Simply put </summary>
-     <div class="body">Add your short, friendly summary here.</div>
+     <div class="body">Sometimes researchers want to peek at part of the data to see what they are dealing with. But once they do, that part can no longer count toward the final analysis, which means losing valuable sample size. On the other hand, studies that are not true experiments risk being swayed by hidden factors. In this work, we show a common solution: in your peek, focus on outcomes that are least likely to be distorted by any hidden influences.
+     </div>
    </details>
   </div>
 </div>
