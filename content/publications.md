@@ -104,6 +104,34 @@ slug: research
 
 <span class="olive-word" style = "font-size: 0.9em; "> (* denotes equal contribution) </span>
 
+<h2 style="color: #556B2F;">Publications</h2>
+
+<div class="pub">
+  <div class="title">
+    <span style="font-weight: bold;">
+      <strong> PrIsing: Privacy-Preserving Peer Effect Estimation via Ising Model </strong>
+      <a href="https://arxiv.org/abs/2401.16596" aria-label="arXiv">
+        <i class="ai ai-arxiv ai"></i>
+      </a>
+<!--       <a href="https://github.com/anirbanc96/ECMMD-CondTwoSamp" aria-label="GitHub repository">
+        <i class="fab fa-github"></i>
+      </a> -->
+    </span>
+  </div>
+  <div class="meta">
+   <a href = "https://abhinavc3.github.io/">Abhinav Chakraborty</a>*, 
+   <a href = "https://anirbanc96.github.io/main/">Anirban Chatterjee</a>*, and
+   Abhinandan Dalal*. 
+   <em> International Conference on Artificial Intelligence and Statistics 2024. </em>
+   </div>
+  <details class="simple">
+    <summary><i class="ai ai-open-access ai"></i> In plain words </summary>
+    <div class="body">Add your short, friendly summary here.</div>
+  </details>
+</div>
+
+
+
 <h2 style="color: #556B2F;">Preprints</h2>
 
 <div class="pub">
@@ -159,7 +187,7 @@ slug: research
     </span>
   </div>
   <div class="meta">
-   <a href = "https://willbekerman.github.io/research/">William Bekerman* </a>, 
+   <a href = "https://willbekerman.github.io/research/">William Bekerman</a>*, 
    Abhinandan Dalal*,
    <a href = "https://blogs.worldbank.org/en/team/c/carlo-del-ninno">Carlo del Ninno </a> and 
    <a href = "https://statistics.wharton.upenn.edu/profile/dsmall/">Dylan S Small </a>.  
