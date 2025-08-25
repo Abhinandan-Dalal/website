@@ -122,7 +122,7 @@ slug: research
 </style>
 
 <details style="margin:1rem 0;">
-  <summary style="cursor:pointer; display:flex; align-items:center; gap:.5rem; font-weight:600; color:#333;">
+  <summary style="cursor:pointer; display:flex; align-items:center; gap:.5rem; font-weight:600; color:var(--olive-color);">
     <i class="fa-solid fa-cloud" aria-hidden="true"></i> A bit of philosophy
   </summary>
   <p style="font-size:0.95em; color:#555; margin:0.5rem 0 0 1.5rem;">
