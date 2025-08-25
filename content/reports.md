@@ -1,5 +1,5 @@
 ---
-title: "Technical Reports"
+title: ""
 ---
 
 <!-- Icon stylesheets (safe to keep here; remove if your theme already loads them) -->
@@ -68,6 +68,11 @@ title: "Technical Reports"
     .content-container { flex-direction: column; }
   }
 </style>
+
+This is a list of some of my older unpublished research. 
+They are not peer-reviewed but are shared here for curious minds. 
+For my more recent works, please see the 
+<a href="/research/">Research</a> section of this site.
 
 <h2 style="color: #556B2F;">Technical Reports</h2>
 
