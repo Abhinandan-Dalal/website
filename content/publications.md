@@ -59,26 +59,14 @@ slug: research
   }
   .olive-word { color: var(--olive-color); }
 
-/*   .badge {
+  .badge {
   display: inline-block;
   font-size: 0.8em;
   font-weight: 400;
-  color: #2c3e50; /* dark blue-gray */
-  background-color: rgba(52, 152, 219, 0.1); /* light blue background */
+  color: chocolate;                          /* Text color */
+  background-color: rgba(240, 255, 255, 0.6); /* Azure background */
   padding: 0.15em 0.6em;
-  border: 2px solid #3498db; /* medium blue */
-  border-radius: 0.5em;
-  vertical-align: middle;
-} */
-
- .badge {
-  display: inline-block;
-  font-size: 0.8em;
-  font-weight: 400;
-  color: #4e7520; /* earthy green */
-  background-color: rgba(102, 153, 51, 0.1); /* olive background */
-  padding: 0.15em 0.6em;
-  border: 2px solid #669933; /* olive border */
+  border: 2px solid chocolate;               /* Border color */
   border-radius: 0.5em;
   vertical-align: middle;
 }
