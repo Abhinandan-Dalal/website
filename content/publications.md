@@ -60,16 +60,16 @@ slug: research
   .olive-word { color: var(--olive-color); }
 
   .badge {
-   display: inline-block;
-   font-size: 0.8em;
-   font-weight: 400;                 /* normal, not bold */
-   color: #c0392b;                   /* deep red for text */
-   background-color: rgba(192, 57, 43, 0.1); /* faint reddish background */
-   padding: 0.15em 0.6em;
-   border: 2px solid #c0392b;        /* solid fat red border */
-   border-radius: 0.5em;             /* rounded rectangle */
-   vertical-align: middle;
-   }
+  display: inline-block;
+  font-size: 0.8em;
+  font-weight: 400;
+  color: #2c3e50; /* dark blue-gray */
+  background-color: rgba(52, 152, 219, 0.1); /* light blue background */
+  padding: 0.15em 0.6em;
+  border: 2px solid #3498db; /* medium blue */
+  border-radius: 0.5em;
+  vertical-align: middle;
+}
 
   /* “Simply put” — inline label; body opens below */
   details.simple {
