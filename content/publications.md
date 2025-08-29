@@ -75,10 +75,10 @@ slug: research
   display: inline-block;
   font-size: 0.8em;
   font-weight: 400;
-  color: #555;
-  background-color: rgba(0, 0, 0, 0.05);
+  color: #4e7520; /* earthy green */
+  background-color: rgba(102, 153, 51, 0.1); /* olive background */
   padding: 0.15em 0.6em;
-  border: 2px solid #aaa;
+  border: 2px solid #669933; /* olive border */
   border-radius: 0.5em;
   vertical-align: middle;
 }
