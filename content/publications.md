@@ -63,10 +63,10 @@ slug: research
   display: inline-block;
   font-size: 0.8em;
   font-weight: 400;
-  color: chocolate;                          /* Text color */
-  background-color: rgba(240, 255, 255, 0.6); /* Azure background */
+  color: #444;                                /* Dark gray text */
+  background-color: rgba(240, 255, 255, 0.6);  /* Azure background */
   padding: 0.15em 0.6em;
-  border: 2px solid chocolate;               /* Border color */
+  border: 2px solid #444;                     /* Dark gray border */
   border-radius: 0.5em;
   vertical-align: middle;
 }
