@@ -38,6 +38,7 @@ sitemap:
       <span style="color: var(--olive-color);"><li><strong>Double-debiased machine learning (DML)</strong></li></span>
       <span style="color: var(--olive-color);"><li><strong>Causal inference under network interference</strong></li></span>
       <span style="color: var(--olive-color);"><li><strong>Heterogeneity of treatment effects</strong></li></span>
+      <span style="color: var(--olive-color);"><li><strong>Applying causal inference to address real-world problems</strong></li></span>
     </ul>
     <p>
       Beyond causal inference, I am also interested in
