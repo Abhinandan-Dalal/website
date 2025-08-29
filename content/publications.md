@@ -59,7 +59,7 @@ slug: research
   }
   .olive-word { color: var(--olive-color); }
 
-  .badge {
+/*   .badge {
   display: inline-block;
   font-size: 0.8em;
   font-weight: 400;
@@ -67,6 +67,18 @@ slug: research
   background-color: rgba(52, 152, 219, 0.1); /* light blue background */
   padding: 0.15em 0.6em;
   border: 2px solid #3498db; /* medium blue */
+  border-radius: 0.5em;
+  vertical-align: middle;
+} */
+
+ .badge {
+  display: inline-block;
+  font-size: 0.8em;
+  font-weight: 400;
+  color: #555;
+  background-color: rgba(0, 0, 0, 0.05);
+  padding: 0.15em 0.6em;
+  border: 2px solid #aaa;
   border-radius: 0.5em;
   vertical-align: middle;
 }
