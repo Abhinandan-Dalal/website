@@ -138,6 +138,33 @@ slug: research
 <div class="pub">
   <div class="title">
     <span style="font-weight: bold;">
+      <strong>  Planning for Gold: Sample Splitting for Valid Powerful Design of Observational Studies.  </strong>
+      <a href="https://arxiv.org/abs/2406.00866" aria-label="arXiv">
+        <i class="ai ai-arxiv ai"></i>
+      </a>
+<!--       <a href="https://github.com/anirbanc96/ECMMD-CondTwoSamp" aria-label="GitHub repository">
+        <i class="fab fa-github"></i>
+      </a> -->
+    </span>
+  </div>
+  <div class="meta">
+   <a href = "https://willbekerman.github.io/research/">William Bekerman</a>*, 
+   Abhinandan Dalal*,
+   <a href = "https://blogs.worldbank.org/en/team/c/carlo-del-ninno">Carlo del Ninno </a> and 
+   <a href = "https://statistics.wharton.upenn.edu/profile/dsmall/">Dylan S Small</a>.  
+   Accepted at <em>Biometrika</em>.
+   <details class="simple">
+     <summary><i class="ai ai-open-access ai"></i> Simply put </summary>
+     <div class="body">Sometimes researchers want to peek at part of the data to see what they are dealing with. But once they do, that part can no longer count toward the final analysis, which means losing valuable sample size. On the other hand, studies that are not true experiments risk being swayed by hidden factors. In this work, we show a common solution: in your peek, focus on outcomes that are least likely to be distorted by any hidden influences.
+     </div>
+   </details>
+  </div>
+</div>
+
+
+<div class="pub">
+  <div class="title">
+    <span style="font-weight: bold;">
       <strong> PrIsing: Privacy-Preserving Peer Effect Estimation via Ising Model. </strong>
       <a href="https://proceedings.mlr.press/v238/chakraborty24a.html" aria-label="Proceedings of Machine Learning Research">
         <i class="fa-solid fa-book"></i>
@@ -230,32 +257,6 @@ slug: research
      <summary><i class="ai ai-open-access ai"></i> Simply put
      </summary>
      <div class="body">A doctor wants to test a pill by giving some people the pill and others a look-alike candy. Not everyone takes what they are given. The doctor checks results as the study goes on—ready to stop early if the pill looks harmful, or to recommend it widely if it looks helpful. In this work, we show how such continuous monitoring can be done without making the doctor’s conclusions invalid (and many more such problems), even when using machine-learning–based inference. </div>
-   </details>
-  </div>
-</div>
-
-<div class="pub">
-  <div class="title">
-    <span style="font-weight: bold;">
-      <strong>  Planning for Gold: Sample Splitting for Valid Powerful Design of Observational Studies.  </strong>
-      <a href="https://arxiv.org/abs/2406.00866" aria-label="arXiv">
-        <i class="ai ai-arxiv ai"></i>
-      </a>
-<!--       <a href="https://github.com/anirbanc96/ECMMD-CondTwoSamp" aria-label="GitHub repository">
-        <i class="fab fa-github"></i>
-      </a> -->
-    </span>
-  </div>
-  <div class="meta">
-   <a href = "https://willbekerman.github.io/research/">William Bekerman</a>*, 
-   Abhinandan Dalal*,
-   <a href = "https://blogs.worldbank.org/en/team/c/carlo-del-ninno">Carlo del Ninno </a> and 
-   <a href = "https://statistics.wharton.upenn.edu/profile/dsmall/">Dylan S Small</a>.  
-   Major revision at <em>Biometrika</em>.
-   <details class="simple">
-     <summary><i class="ai ai-open-access ai"></i> Simply put </summary>
-     <div class="body">Sometimes researchers want to peek at part of the data to see what they are dealing with. But once they do, that part can no longer count toward the final analysis, which means losing valuable sample size. On the other hand, studies that are not true experiments risk being swayed by hidden factors. In this work, we show a common solution: in your peek, focus on outcomes that are least likely to be distorted by any hidden influences.
-     </div>
    </details>
   </div>
 </div>
