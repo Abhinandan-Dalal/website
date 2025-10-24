@@ -138,7 +138,7 @@ slug: research
 <div class="pub">
   <div class="title">
     <span style="font-weight: bold;">
-      <strong>  Planning for Gold: Sample Splitting for Valid Powerful Design of Observational Studies.  </strong>
+      <strong>  Planning for Gold: Hypothesis screening with split samples for valid powerful testing in matched observational studies  </strong>
       <a href="https://arxiv.org/abs/2406.00866" aria-label="arXiv">
         <i class="ai ai-arxiv ai"></i>
       </a>
