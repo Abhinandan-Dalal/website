@@ -116,7 +116,7 @@ I have been fortunate to mentor students and support their academic and professi
 </table>
 
 <h2 style="color: #556B2F;">Teaching Distinction</h2>
-<strong>Donald S. Murray Prize for Excellence in Teaching</strong>, Dept. of Statistics & Data Science, University of Pennsylvania
+<strong style="color: var(--olive-color);">Donald S. Murray Prize for Excellence in Teaching</strong>, Dept. of Statistics & Data Science, University of Pennsylvania
 
 
 <!-- Add a style tag with CSS to control the layout -->
