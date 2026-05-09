@@ -56,7 +56,7 @@ My teaching assistantships have provided me with the opportunity to guide both u
 <table class="ta-table">
     <tbody>
         <tr>
-            <td>Spring 2025</td>
+            <td>Spring 2026</td>
             <td><a href="/docs/course_syllabi/stat4420.pdf">STAT 4420</a>: <strong>Introduction to Bayesian Data Analysis</strong> (for Graduate Students)</td>
         </tr>
         <tr>
