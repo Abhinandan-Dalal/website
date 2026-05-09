@@ -139,6 +139,9 @@ slug: research
   <div class="title">
     <span style="font-weight: bold;">
       <strong>  Planning for Gold: Hypothesis screening with split samples for valid powerful testing in matched observational studies  </strong>
+     <a href="https://academic.oup.com/biomet/article-abstract/113/1/asaf078/8313517" aria-label="Biometrika">
+        <i class="fa-solid fa-book"></i>
+      </a>
       <a href="https://arxiv.org/abs/2406.00866" aria-label="arXiv">
         <i class="ai ai-arxiv ai"></i>
       </a>
@@ -152,7 +155,7 @@ slug: research
    Abhinandan Dalal*,
    <a href = "https://blogs.worldbank.org/en/team/c/carlo-del-ninno">Carlo del Ninno </a> and 
    <a href = "https://statistics.wharton.upenn.edu/profile/dsmall/">Dylan S Small</a>.  
-   Accepted at <em>Biometrika</em>.
+   <em>Biometrika</em>.
    <details class="simple">
      <summary><i class="ai ai-open-access ai"></i> Simply put </summary>
      <div class="body">Sometimes researchers want to peek at part of the data to see what they are dealing with. But once they do, that part can no longer count toward the final analysis, which means losing valuable sample size. On the other hand, studies that are not true experiments risk being swayed by hidden factors. In this work, we show a common solution: in your peek, focus on outcomes that are least likely to be distorted by any hidden influences.
