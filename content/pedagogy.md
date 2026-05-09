@@ -89,7 +89,7 @@ My teaching assistantships have provided me with the opportunity to guide both u
         </tr>
         <tr>
             <td>Spring 2022</td>
-            <td><a href="/docs/course_syllabi/stat521.pdf">STAT 521</a>: <strong>Applied Econometrics II</strong> (for Graduate Students)</td>
+            <td><a href="/docs/course_syllabi/stat521.pdf">STAT 521 </a>: <strong>Applied Econometrics II</strong> (for Graduate Students)</td>
         </tr>
     </tbody>
 </table>
