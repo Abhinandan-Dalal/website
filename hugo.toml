@@ -79,11 +79,11 @@ enableRobotsTXT = true
             class = "fab fa-github"
             url = "https://github.com/abhinandan-dalal"
             weight = 2
-        # [params.social.google_scholar]
-        #     name = "Google Scholar"
-        #     class = "ai ai-google-scholar"
-        #     url = "https://scholar.google.co.in/citations?user=dBN655QAAAAJ&hl=en"
-        #     weight = 3
+        [params.social.google_scholar]
+            name = "Google Scholar"
+            class = "ai ai-google-scholar"
+            url = "https://scholar.google.com/citations?user=crniJn4AAAAJ&hl=en&oi=ao"
+            weight = 3
         #[params.social.institution]
         #    name = "My institution"
         #    class = "fas fa-university"
