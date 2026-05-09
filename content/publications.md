@@ -138,15 +138,39 @@ slug: research
 <div class="pub">
   <div class="title">
     <span style="font-weight: bold;">
-      <strong>  Planning for Gold: Hypothesis screening with split samples for valid powerful testing in matched observational studies  </strong>
+      <strong>  The Role of Measured Covariates in Assessing Sensitivity to Unmeasured Confounding.  </strong>
+     <!-- <a href="https://academic.oup.com/biomet/article-abstract/113/1/asaf078/8313517" aria-label="Observational Studies">
+        <i class="fa-solid fa-book"></i>
+      </a> -->
+      <a href="https://arxiv.org/abs/2602.14414" aria-label="arXiv">
+        <i class="ai ai-arxiv ai"></i>
+      </a>
+    </span>
+  </div>
+  <div class="meta">
+   Abhinandan Dalal,
+   <a href = "https://www.linkedin.com/in/irishorng/">Iris Horng</a>, 
+   <a href = "https://yangfengstat.github.io/">Yang Feng </a> and 
+   <a href = "https://statistics.wharton.upenn.edu/profile/dsmall/">Dylan S Small</a>.  
+   Accepted at <em>Observational Studies</em>.
+   <details class="simple">
+     <summary><i class="ai ai-open-access ai"></i> Simply put </summary>
+     <div class="body">Consider two studies which show effect size estimates and sensitivity analysis, but the treatment is better explained by a measured covariate in one over the other. Is there a reason to trust one study's conclusions over the other?
+     </div>
+   </details>
+  </div>
+</div>
+
+<div class="pub">
+  <div class="title">
+    <span style="font-weight: bold;">
+      <strong>  Planning for Gold: Hypothesis screening with split samples for valid powerful testing in matched observational studies.  </strong>
      <a href="https://academic.oup.com/biomet/article-abstract/113/1/asaf078/8313517" aria-label="Biometrika">
         <i class="fa-solid fa-book"></i>
       </a>
       <a href="https://arxiv.org/abs/2406.00866" aria-label="arXiv">
         <i class="ai ai-arxiv ai"></i>
       </a>
-<!--       <a href="https://github.com/anirbanc96/ECMMD-CondTwoSamp" aria-label="GitHub repository">
-        <i class="fab fa-github"></i>
       </a> -->
     </span>
   </div>
