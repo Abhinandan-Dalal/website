@@ -171,7 +171,6 @@ slug: research
       <a href="https://arxiv.org/abs/2406.00866" aria-label="arXiv">
         <i class="ai ai-arxiv ai"></i>
       </a>
-      </a> -->
     </span>
   </div>
   <div class="meta">
