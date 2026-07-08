@@ -15,6 +15,10 @@ sitemap:
     margin-bottom: 0em; /* Adjust this value to change the spacing */
 /*     color: var(--olive-color); /* This makes the bullets olive */ */
   }
+  .landing-page-content p {
+    margin-top: 0;
+    margin-bottom: 0.8em;
+  }
 </style>
 
 <div class="landing-page-wrapper">
