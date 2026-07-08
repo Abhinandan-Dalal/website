@@ -27,7 +27,7 @@ sitemap:
       <p>
         I am a Postdoctoral Research Fellow in the <a href="https://hcp.hms.harvard.edu/">Department of Health Care Policy</a> at <a href="https://www.harvard.edu/" target="_blank">Harvard University</a>, working with <a href="https://alexluedtke.com/">Prof. Alex Luedtke</a>.
       </p>
-
+<!--
       <p>
       I completed my PhD in Statistics and Data Science from  the <a href="https://statistics.wharton.upenn.edu/">Department of Statistics & Data Science</a> at <a href="https://www.wharton.upenn.edu/" target="_blank">The Wharton School</a>, <a href="https://www.upenn.edu/" target="_blank">University of Pennsylvania</a>, where I was fortunate to have been advised by <a href="https://statistics.wharton.upenn.edu/profile/dsmall/" target="_blank">Prof. Dylan Small</a>. During my time at Penn, I have also had the opportunity to collaborate closely with <a href="https://statistics.wharton.upenn.edu/profile/ett/" target="_blank">Prof. Eric Tchetgen Tchetgen</a>. 
       </p>
@@ -35,6 +35,7 @@ sitemap:
       <p>
       Prior to Penn, I received my Bachelor's and Master's degrees in Statistics from the <a href="https://www.isical.ac.in/" target="_blank">Indian Statistical Institute, Kolkata</a>.
       </p>
+      -->
     </div>
     <div class="landing-page-image">
       <img src="avatar.jpg" alt="Placeholder Image">
