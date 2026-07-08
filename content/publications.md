@@ -50,8 +50,8 @@ slug: research
 <style>
   /* Publication layout (same feel as your research page) */
   .pub { margin: .9rem 0 1.4rem; }
-  .pub .title { font-weight: 600; font-size: 1em; }
-  .pub .meta { font-size: .9em; opacity: .9; margin-top: .15rem; }
+  .pub .title { font-weight: 600; }
+  .pub .meta { opacity: .9; margin-top: .15rem; }
 
   /* Olive theme */
   :root {
@@ -95,7 +95,7 @@ slug: research
   details.simple[open] > summary::before { transform: rotate(90deg); }
   details.simple .body {
     display: block;
-    font-size: .9rem;
+    font-size: .9em;
     line-height: 1.35;
     color: #444;
     margin: .4rem 0 .2rem 1.4rem;
