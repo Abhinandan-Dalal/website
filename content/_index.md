@@ -21,7 +21,9 @@ sitemap:
   <div class="top-content">
     <div class="landing-page-content">
       <p>
-        I am currently a fifth-year PhD student in the <a href="https://statistics.wharton.upenn.edu/">Department of Statistics & Data Science</a> at the <a href="https://www.wharton.upenn.edu/" target="_blank">The Wharton School</a>, <a href="https://www.upenn.edu/" target="_blank">University of Pennsylvania</a>, where I am fortunate to have been advised by <a href="https://statistics.wharton.upenn.edu/profile/dsmall/" target="_blank">Prof. Dylan Small</a>. During my time at Penn, I have also had the opportunity to collaborate closely with <a href="https://statistics.wharton.upenn.edu/profile/ett/" target="_blank">Prof. Eric Tchetgen Tchetgen</a>. Before joining Penn, I received my Bachelor's and Master's degrees in Statistics from the <a href="https://www.isical.ac.in/" target="_blank">Indian Statistical Institute, Kolkata</a>.
+        I am a Postdoctoral Research Fellow in the <a href="https://hcp.hms.harvard.edu/">Department of Health Care Policy</a> at <a href="https://www.harvard.edu/" target="_blank">Harvard University</a>, working with <a href="https://alexluedtke.com/">Prof. Alex Luedtke</a>.
+        
+        I completed my PhD in Statistics and Data Science from  the <a href="https://statistics.wharton.upenn.edu/">Department of Statistics & Data Science</a> at <a href="https://www.wharton.upenn.edu/" target="_blank">The Wharton School</a>, <a href="https://www.upenn.edu/" target="_blank">University of Pennsylvania</a>, where I was fortunate to have been advised by <a href="https://statistics.wharton.upenn.edu/profile/dsmall/" target="_blank">Prof. Dylan Small</a>. During my time at Penn, I have also had the opportunity to collaborate closely with <a href="https://statistics.wharton.upenn.edu/profile/ett/" target="_blank">Prof. Eric Tchetgen Tchetgen</a>. Prior to Penn, I received my Bachelor's and Master's degrees in Statistics from the <a href="https://www.isical.ac.in/" target="_blank">Indian Statistical Institute, Kolkata</a>.
       </p>
     </div>
     <div class="landing-page-image">
@@ -31,7 +33,7 @@ sitemap:
 
   <div class="bottom-content">
     <p>
-      My research primarily focuses on <span style="color: var(--olive-color);"><strong>causal inference</strong></span>, and asking causal questions is a quick way to grab my attention. Specifically, I am interested in:
+      My research primarily focuses on <span style="color: var(--olive-color);"><strong>causal inference</strong></span>, and asking counterfactual questions is a quick way to grab my attention. Specifically, I am interested in:
     </p>
     <ul>
       <span style="color: var(--olive-color);"><li><strong>Sensitivity analysis to unmeasured confounding</strong></li></span>
@@ -48,7 +50,7 @@ sitemap:
       and inference with <span style="color: var(--olive-color);"><strong>strategic agents</strong></span>. 
     </p>
     <p>
-      I have spent two summers at <a href = "https://www.amazon.science/" target="_blank">Amazon</a>: in 2023, I developed anytime-valid DML for causal inference, and in 2024, I used 
+      I have spent two summers at <a href = "https://www.amazon.science/" target="_blank">Amazon</a> during my PhD: in 2023, I developed anytime-valid DML for causal inference, and in 2024, I used 
       <span style="color: var(--olive-color);"><strong>proximal causal inference</strong></span> 
       to design better loss functions for regional demand forecasting. My current research and publications can be found <a href="/research/">here</a>.
     </p>
