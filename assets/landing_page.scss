@@ -6,15 +6,18 @@
 .top-content {
     display: flex;
     justify-content: space-between;
+    align-items: flex-start;
 }
 
 .landing-page-content {
     flex: 2;
+    display: block;
 }
 
 .landing-page-image {
     flex: 1;
     text-align: right;
+    flex-shrink: 0;
 }
 
 .landing-page-image img {
