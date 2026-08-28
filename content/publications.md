@@ -231,7 +231,7 @@ slug: research
    Abhinandan Dalal, and 
    <a href = "https://www.statwizard.in/">Subhrajyoty Roy</a>.  
    <em> Commodity Insights Yearbook 2019, Multi Commodity Exchange of India Ltd. </em> 
-   <span class="badge">Non-peer reviewed</span>
+   <!-- <span class="badge">Non-peer reviewed</span> -->
    <details class="simple">
      <summary><i class="ai ai-open-access ai"></i> Simply put </summary>
      <div class="body">We study the factors that influence tea prices when tea-gardens in India auction their leaves to teahouses. In particular, we highlight the role of professional tea-tasters who provide manual valuations.</div>
