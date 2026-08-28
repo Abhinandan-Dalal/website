@@ -152,7 +152,9 @@ slug: research
    <a href = "https://www.linkedin.com/in/irishorng/">Iris Horng</a>, 
    <a href = "https://yangfengstat.github.io/">Yang Feng </a> and 
    <a href = "https://statistics.wharton.upenn.edu/profile/dsmall/">Dylan S Small</a>.  
-   Accepted at <em>Observational Studies</em>.
+   <a href="https://muse.jhu.edu/pub/56/article/999747" aria-label="Observational Studies">
+    <i class="fa-solid fa-book"></i>
+      </a>
    <details class="simple">
      <summary><i class="ai ai-open-access ai"></i> Simply put </summary>
      <div class="body">Consider two studies which show effect size estimates and sensitivity analysis, but the treatment is better explained by a measured covariate in one over the other. Is there a reason to trust one study's conclusions over the other?
