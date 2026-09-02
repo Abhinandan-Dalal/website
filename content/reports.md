@@ -132,7 +132,7 @@ For my more recent works, please see the
   <div class="meta">
     <a href="https://arindamroyc1.github.io/homepage/">Arindam Roy Chowdhury</a>*,
     Abhinandan Dalal*, and
-    <a href="https://statistics.sciences.ncsu.edu/people/ssen8/">Shubhajit Sen</a>.
+    <a href="https://www.linkedin.com/in/shubhajit-sen-54291b13a/">Shubhajit Sen</a>.
     <details class="simple">
       <summary><i class="ai ai-open-access ai"></i> Simply put</summary>
       <div class="body">Imagine typing just by moving your phone. Instead of tapping keys, we show how the phone’s 3D movements can be turned into letters, making gesture typing possible. </div>
