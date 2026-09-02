@@ -130,7 +130,7 @@ For my more recent works, please see the
     </span>
   </div>
   <div class="meta">
-    <a href="https://ieor.columbia.edu/content/arindam-roy-chowdhury">Arindam Roy Chowdhury</a>*,
+    <a href="https://arindamroyc1.github.io/homepage/">Arindam Roy Chowdhury</a>*,
     Abhinandan Dalal*, and
     <a href="https://statistics.sciences.ncsu.edu/people/ssen8/">Shubhajit Sen</a>.
     <details class="simple">
